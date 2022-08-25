@@ -11,3 +11,6 @@ third_nav_title: Smoking Cessation
 * **Ask** about smoking – systematically identify all tobacco users at every visit 
 *  **Act** to help all tobacco users quit
 
+![](/images/smoking1.png)
+
+For more information on the stages of change, click [here]().
