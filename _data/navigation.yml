@@ -8,5 +8,5 @@ links:
   - title: Administrative Care Protocol
     url: /health-plan
     sublinks: []
-  - title: Diabetes Folder
-    collection: diabetes-folder
+  - title: Chronic Care Protocol
+    collection: chronic-care-protocol
