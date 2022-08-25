@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: About Healthier SG
+          description: Find out more about HSG
+          url: https://www.healthiersg.gov.sg/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
