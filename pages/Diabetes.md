@@ -8,7 +8,8 @@ Chronic hyperglycaemia is associated with long-term sequelae resulting from dama
 <br><br>There are several ways to screena and diagnose DMb. (Refer to Pre-DM care protocolc if Pre-DM is diagnosed)
 </blockquote></details>
 
-<details><summary><b><u><font size="+2">External Resources</font></u></b></summary> 
+<details><summary><b><u><font size="+2">External Resources</font></u></b></summary> <br>
+	This is an external resource that can be consumed from the CP site.<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAjZv41iUJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
 
 <details><summary><b><u><font size="+2">Lipid Calculator</font></u></b></summary> 
