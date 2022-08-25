@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Note: This is a trial site and not meant for public consumption."
 sections:
   - hero:
       title: Trial - Care Protocol Website
