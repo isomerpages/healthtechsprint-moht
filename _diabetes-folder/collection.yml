@@ -1,0 +1,4 @@
+collections:
+  diabetes-folder:
+    output: true
+    order: []
