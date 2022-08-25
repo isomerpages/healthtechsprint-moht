@@ -2,6 +2,6 @@ collections:
   diabetes-folder:
     output: true
     order:
-      - Diabetes Subfolder/Diabetes 2.md
-      - Diabetes Subfolder/Diabetes.md
       - Diabetes Subfolder/.keep
+      - Diabetes Subfolder/Diabetes.md
+      - Diabetes Subfolder/Diabetes 2.md
