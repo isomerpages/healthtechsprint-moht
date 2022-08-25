@@ -3,8 +3,5 @@ title: Diabetes
 permalink: /permalink
 description: ""
 ---
-<details><summary>Hello</summary><blockquote>
-  <details><summary>World</summary><blockquote>
-    :smile:
-  </blockquote></details>
+<details><summary><b><u><font size="+2">Background</font></u></b></summary> <blockquote>Prevalence of diabetes in the National population health survey 2020 was 9.5%. Chronic hyperglycaemia is associated with long-term sequelae resulting from damage to various organs and tissues, particularly the kidney, eye, nerves, heart and blood vessels. There are several ways to screena and diagnose DMb. (Refer to Pre-DM care protocolc if Pre-DM is diagnosed)
 </blockquote></details>
