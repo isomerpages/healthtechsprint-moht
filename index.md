@@ -16,8 +16,8 @@ sections:
         - title: About Healthier SG
           description: Find out more about HSG
           url: https://www.healthiersg.gov.sg/
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Latest Updates
+          description: List of updates to protocols
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
