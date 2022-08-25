@@ -19,7 +19,7 @@ sections:
         - title: Latest Updates
           description: List of updates to protocols
           url: https://gmail.com
-        - title: Page A
+        - title: Risk Calculator
           description: Page A is important too
           url: /privacy/
   - infobar:
