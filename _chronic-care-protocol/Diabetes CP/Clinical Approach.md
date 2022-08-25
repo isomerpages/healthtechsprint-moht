@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Diabetes CP
 ---
 # Clinical Approach for Diabetes
+
 1.  Optimise glycaemia control (Individualised). 
 
 2.  Avoid hyper and hypoglycaemic events.
