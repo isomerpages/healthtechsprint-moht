@@ -1,4 +1,5 @@
 collections:
   diabetes-folder:
     output: true
-    order: []
+    order:
+      - Diabetes.md
