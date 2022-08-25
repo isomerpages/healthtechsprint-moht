@@ -2,5 +2,6 @@ collections:
   preventative-health-protocols:
     output: true
     order:
+      - Smoking Cessation/Clinical Approach.md
       - Smoking Cessation/Background.md
       - Smoking Cessation/.keep
