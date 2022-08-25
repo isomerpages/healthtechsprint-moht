@@ -2,6 +2,6 @@ collections:
   chronic-care-protocol:
     output: true
     order:
-      - Diabetes Subfolder/.keep
-      - Diabetes Subfolder/Diabetes.md
-      - Diabetes Subfolder/Diabetes 2.md
+      - Diabetes CP/.keep
+      - Diabetes CP/Diabetes.md
+      - Diabetes CP/Diabetes 2.md
