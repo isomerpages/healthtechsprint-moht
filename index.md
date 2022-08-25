@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Trial - Care Protocol Website
       subtitle: Healthier SG protocols for GPs
-      background: /images/hero-banner.png
+      background: /images/a-Healthier-Singapore-scaled.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
