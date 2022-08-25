@@ -2,14 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Chronic Care Protocol
-    url: /permalink
-    sublinks:
-      - title: DIABETES
-        url: /permalink
   - title: Preventive Care Protocol
     url: /permalink
     sublinks: []
   - title: Administrative Care Protocol
     url: /health-plan
     sublinks: []
+  - title: Diabetes Folder
+    collection: diabetes-folder
