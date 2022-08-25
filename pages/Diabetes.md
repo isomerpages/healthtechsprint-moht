@@ -11,5 +11,5 @@ Chronic hyperglycaemia is associated with long-term sequelae resulting from dama
 <details><summary><b><u><font size="+2">External Resources</font></u></b></summary> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JAjZv41iUJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
 
-<details><summary><b><u><font size="+2">Calculator</font></u></b></summary> 
+<details><summary><b><u><font size="+2">Lipid Calculator</font></u></b></summary> 
 <iframe width="760" height="415" src="https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622"  allowfullscreen></iframe></details>
