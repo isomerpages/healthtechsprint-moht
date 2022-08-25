@@ -1,0 +1,4 @@
+collections:
+  preventative-health-protocols:
+    output: true
+    order: []
