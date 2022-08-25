@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Diabetes CP/.keep
-      - Diabetes CP/Diabetes.md
+      - Diabetes CP/Background.md
       - Diabetes CP/Diabetes 2.md
