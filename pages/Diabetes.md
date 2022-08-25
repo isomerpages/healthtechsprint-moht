@@ -7,3 +7,6 @@ description: ""
 Chronic hyperglycaemia is associated with long-term sequelae resulting from damage to various organs and tissues, particularly the kidney, eye, nerves, heart and blood vessels. 
 <br><br>There are several ways to screena and diagnose DMb. (Refer to Pre-DM care protocolc if Pre-DM is diagnosed)
 </blockquote></details>
+
+<details><summary><b><u><font size="+2">External Resources</font></u></b></summary> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7oQcNuTRY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
