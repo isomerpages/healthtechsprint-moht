@@ -1,4 +1,5 @@
 collections:
   preventative-health-protocols:
     output: true
-    order: []
+    order:
+      - Smoking cessation.md
