@@ -2,6 +2,7 @@ collections:
   chronic-care-protocol:
     output: true
     order:
+      - Diabetes CP/Internal Resources.md
       - Diabetes CP/.keep
       - Diabetes CP/Background.md
       - Diabetes CP/Clinical Approach.md
