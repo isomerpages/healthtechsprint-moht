@@ -2,13 +2,14 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Chronic Care Protocol
     url: /permalink
     sublinks:
       - title: DIABETES
         url: /permalink
   - title: Preventive Care Protocol
+    url: /permalink
+    sublinks: []
+  - title: ADMINISTRATIVE CARE PROTOCOL
     url: /permalink
     sublinks: []
