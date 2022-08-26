@@ -4,7 +4,7 @@ permalink: /preventative-health-protocols/Smoking-Cessation/permalink
 description: ""
 third_nav_title: Smoking Cessation
 ---
-# Background
+# Clinical Approach
 
 **2A Approach to Smoking Cessation.**
 
