@@ -38,12 +38,12 @@ third_nav_title: Diabetes
   </tr>
   <tr>
     <td>   <br>Pre-meal glucose   </td>
-    <td>   <br>4.0 -   7.0 mmol/L (72 - 126 mg/dL)    </td>
+    <td>   <br>4.0 -   7.0 mmol/L <br>(72 - 126 mg/dL)    </td>
     <td>   <br>6.5-9.0 mmol/L    <br>(118-162 mg/dL if frail or susceptible to hypoglycaemia)   </td>
   </tr>
   <tr>
     <td>   <br>Post-meal glucose   </td>
-    <td>   <br>5.0 - 10.0   mmol/L (90 – 200 mg/dL)    </td>
+    <td>   <br>5.0 - 10.0   mmol/L <br> (90 – 200 mg/dL)    </td>
     <td>   <br>&lt;12.0 mmol/L    <br>(216 mg/dL   if frail or susceptible to hypoglycaemia)   </td>
   </tr>
 </tbody>
