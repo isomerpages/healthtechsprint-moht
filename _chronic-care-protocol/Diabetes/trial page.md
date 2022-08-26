@@ -4,6 +4,8 @@ permalink: /chronic-care-protocol/Diabetes/trialonly
 description: ""
 third_nav_title: Diabetes
 ---
+<details open><summary>Targets for relevant clinical parameters</summary>
+	<br>
 <table>
 <thead>
   <tr>
@@ -35,13 +37,17 @@ third_nav_title: Diabetes
   </tr>
   <tr>
     <td>   <br>Pre-meal glucose   </td>
-    <td>   <br>4.0 -   7.0 mmol/L (72 - 126 mg/dL)    </td>
+    <td>   <br>4.0 -   7.0 mmol/L <br>(72 - 126 mg/dL)    </td>
     <td>   <br>6.5-9.0 mmol/L    <br>(118-162 mg/dL if frail or susceptible to hypoglycaemia)   </td>
   </tr>
   <tr>
     <td>   <br>Post-meal glucose   </td>
-    <td>   <br>5.0 - 10.0   mmol/L (90 – 200 mg/dL)    </td>
+    <td>   <br>5.0 - 10.0   mmol/L <br> (90 – 200 mg/dL)    </td>
     <td>   <br>&lt;12.0 mmol/L    <br>(216 mg/dL   if frail or susceptible to hypoglycaemia)   </td>
   </tr>
 </tbody>
 </table>
+<br>1. May consider continuous glucose monitoring.<br> 
+2. Also see recommended care components and frequency of tests.
+	<hr>
+	</details>
