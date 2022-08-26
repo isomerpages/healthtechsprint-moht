@@ -51,4 +51,19 @@ b) Self blood glucose monitoring (SBGM) can be an integral component of effectiv
 
 c) Special circumstances like Acute Illness, dental care, Pregnancy, Ramadan, Travel across time zones.
 
+<hr>
+
+## Vaccination
+
+Influenza + Pneumococcal.
+
+<HR>
+
+## Regular Assessment
+
+BP, BMI, Lipid, HbA1c, DRP, (minimum dataset for reporting & referral guideliness), DFS (Guidelines & Calculator), Kidney, Cardiac (baseline ECG) and smoking.
+
+<hr>
+
+## Screen and Co-Manage Other Comorbidities
 
