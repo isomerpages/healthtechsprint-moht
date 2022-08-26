@@ -50,9 +50,9 @@ third_nav_title: Diabetes
 </table>
 <br>1. May consider continuous glucose monitoring.<br> 
 2. Also see recommended care components and frequency of tests.
+	<hr>
 	</details>
-<hr>
-
+	
 ## Lifestyle
 
 a) Healthy plate, ↓ Fat intake, avoid sugary drinks & food, ↓ Alcohol intake, stop smoking.
