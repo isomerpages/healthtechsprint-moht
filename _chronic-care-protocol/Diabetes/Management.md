@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
-<details open><summary>Detailed target clinical parameters</summary>
-
-	
 <br>
 
 	
@@ -22,8 +19,6 @@ third_nav_title: Diabetes
 <hr>
 <br>1. May consider continuous glucose monitoring.<br> 
 2. Also see recommended care components and frequency of tests.
-
-</details>
 
 <br>
 <hr>
