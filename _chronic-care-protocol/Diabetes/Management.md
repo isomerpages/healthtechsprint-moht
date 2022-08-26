@@ -20,6 +20,7 @@ third_nav_title: Diabetes
 <hr>
 <br>1. May consider continuous glucose monitoring.<br> 
 2. Also see recommended care components and frequency of tests.
+
 </details>
 
 <br>
