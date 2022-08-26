@@ -15,6 +15,7 @@ Target: **0 sticks per day**.
 ```
 
 ```
+References:
 1.	Chan K, Chandler J, Cheong K, Giam PE, Kanagalingam D, Lee LL, Leong JJ, Ng Y, Oh C, Shi M, Tan AS. Health promotion board-ministry of health clinical practice guidelines: treating tobacco use and dependence. Singapore Med J. 2013 Jul 1;54(7):411–416.
 2.	Rigotti NA, Kathuria H. Benefits and consequences of smoking cessation. UpToDate. Waltham (MA): UpToDate. 2020.
 3.	Inoue-Choi M, Christensen CH, Rostron BL, Cosgrove CM, Reyes-Guzman C, Apelberg B, Freedman ND. Dose-response association of low-intensity and nondaily smoking with mortality in the United States. JAMA network open. 2020 Jun 1;3(6):e206436.
