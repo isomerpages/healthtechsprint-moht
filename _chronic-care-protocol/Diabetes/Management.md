@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
-<details><summary>Click here for detailed target clinical parameters</summary>
+<details open><summary>Detailed target clinical parameters</summary>
 <br>
 
 | Clinical Parameter          | Target                                          | Remarks                                                                                                             |
@@ -19,8 +19,10 @@ third_nav_title: Diabetes
 <hr>
 <br>1. May consider continuous glucose monitoring.<br> 
 2. Also see recommended care components and frequency of tests.
-<hr>
 </details>
+
+<br>
+<hr>
 
 ## Lifestyle
 
@@ -29,6 +31,7 @@ a) Healthy plate, ↓ Fat intake, avoid sugary drinks & food, ↓ Alcohol intake
 b) ↑ Physical activity, ↓ Sedentary behaviour.
 
 c)	 Stress management – screen for depression (PHQ2).
+<hr>
 
 ## Medication
 
@@ -37,4 +40,15 @@ a)	Metformin as 1st line agent.
 b)	Sulfonylureas, SGLT-2 Inhibitor or insulin as alternative or 2nd line.
 
 c)	Others: DPP-4 inhibitors, Meglitinides, Thiazolidinediones, α-glucosidase inhibitors & GLP-1 analogues.
+
+<hr>
+
+## Behaviour
+
+a)	Education on symptoms of hypo, hyperglycaemia, SMBG, insulin injection including good foot care practices.
+
+b) Self blood glucose monitoring (SBGM) can be an integral component of effective therapy.
+
+c) Special circumstances like Acute Illness, dental care, Pregnancy, Ramadan, Travel across time zones.
+
 
