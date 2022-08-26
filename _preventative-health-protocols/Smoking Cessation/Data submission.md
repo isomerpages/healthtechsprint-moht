@@ -4,6 +4,7 @@ permalink: /preventative-health-protocols/Smoking-Cessation/permalink
 description: ""
 third_nav_title: Smoking Cessation
 ---
+# Data submission
 Please document the following data in your case notes as good clinical practice for all patients enrolled to your practice under Healthier SG.
 
 These data fields should be submitted to MOH on best-effort basis to facilitate policy review and planning. For those marked with asterisks, these are mandatory data fields tied to payments.
