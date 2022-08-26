@@ -8,6 +8,7 @@ third_nav_title: Diabetes
 <details open><summary>Detailed target clinical parameters</summary>
 <br>
 
+	
 | Clinical Parameter          | Target                                          | Remarks                                                                                                             |
 |-----------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | HbA1c                       | ≤ 7.0%                                          | May be ≤ 6.5% or 7.0% - 8.5% depending on context & patient profile<br>HbA1c not accurate in certain conditions.    |
@@ -66,4 +67,3 @@ BP, BMI, Lipid, HbA1c, DRP, (minimum dataset for reporting & referral guidelines
 <hr>
 
 ## Screen and Co-Manage Other Comorbidities
-
