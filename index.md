@@ -4,29 +4,28 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Note: This is a trial site and not meant for public consumption."
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Trial - Care Protocol Website
+      subtitle: Healthier SG Care Protocols for GPs
+      background: /images/a-Healthier-Singapore-scaled.jpg
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: About Healthier SG
+          description: Find out more about HSG
+          url: https://www.healthiersg.gov.sg/
+        - title: Latest Updates
+          description: List of updates to protocols
+          url: https://gmail.com
+        - title: Risk Calculator
+          description: Page A is important too
+          url: /privacy/
+  - infobar:
+      title: Yes we know!
+      subtitle: We are awesome
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
 ---
-

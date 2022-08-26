@@ -2,10 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Care Protocol
-    url: /permalink
-    sublinks:
-      - title: DIABETES
-        url: /permalink
+  - title: Administrative Care Protocols
+    url: /health-plan
+    sublinks: []
+  - title: Chronic Care Protocols
+    collection: chronic-care-protocol
+  - title: Preventative Health Protocols
+    collection: preventative-health-protocols
