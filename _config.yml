@@ -46,4 +46,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://healthtechsprint-moht-staging.netlify.app
 prod: https://healthtechsprint-moht-prod.netlify.app
-google_analytics: G-JCKYZFNZ1D
+google_analytics: "G-JCKYZFNZ1D"
