@@ -6,6 +6,8 @@ third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
 <details open><summary>Detailed target clinical parameters</summary>
+
+	
 <br>
 
 	
