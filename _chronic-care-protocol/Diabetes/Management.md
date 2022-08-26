@@ -48,11 +48,9 @@ third_nav_title: Diabetes
   </tr>
 </tbody>
 </table>
-<hr>
 <br>1. May consider continuous glucose monitoring.<br> 
 2. Also see recommended care components and frequency of tests.
 	</details>
-<br>
 <hr>
 
 ## Lifestyle
