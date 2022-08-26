@@ -2,10 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Administrative Care Protocol
+  - title: Administrative Care Protocols
     url: /health-plan
     sublinks: []
-  - title: Chronic Care Protocol
+  - title: Chronic Care Protocols
     collection: chronic-care-protocol
   - title: Preventative Health Protocols
     collection: preventative-health-protocols
