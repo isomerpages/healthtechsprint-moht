@@ -8,7 +8,7 @@ notification: "Note: This is a trial site and not meant for public consumption."
 sections:
   - hero:
       title: Trial - Care Protocol Website
-      subtitle: Healthier SG protocols for GPs
+      subtitle: Healthier SG Care Protocols for GPs
       background: /images/a-Healthier-Singapore-scaled.jpg
       button: Contact Us
       url: /contact-us/
