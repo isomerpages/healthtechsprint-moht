@@ -4,8 +4,7 @@ permalink: /preventative-health-protocols/Smoking-Cessation/background
 description: ""
 third_nav_title: Smoking Cessation
 ---
-
-# Smoking as a risk factor
+## Smoking as a risk factor
 Smoking is a major risk factor, with 13.1% of deaths in Singapore attributed to smoking, both active and passive.
 
 While a reduction in smoking results in lower mortality risk, **complete cessation** is much more beneficial.[1, 2, 3]
