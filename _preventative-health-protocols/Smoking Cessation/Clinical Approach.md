@@ -4,8 +4,7 @@ permalink: /preventative-health-protocols/Smoking-Cessation/clinical
 description: ""
 third_nav_title: Smoking Cessation
 ---
-
-### 2A Approach to Smoking Cessation
+## 2A Approach to Smoking Cessation
 
 * **Ask** about smoking – systematically identify all tobacco users at every visit 
 *  **Act** to help all tobacco users quit
