@@ -17,17 +17,12 @@ locations:
         description: ""
     maps_link: ""
     title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: ""
+      - other: "If you have a query, feedback or wish to report a problem related to
+          this website, please fill in the [online form]
+          (https://form.gov.sg/6306e6e2284992001310d761). "
     title: General Enquiries & Feedback
 ---
