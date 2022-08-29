@@ -19,6 +19,8 @@ sections:
             url: https://www.cfps.org.sg/
           - title: 10-Year CAD Risk Calculator
             url: https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622
+          - title: DFS Risk Calculator
+            url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
   - infobar:
       title: Yes we know!
       subtitle: We are awesome
