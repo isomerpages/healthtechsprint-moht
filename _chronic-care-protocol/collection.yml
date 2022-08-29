@@ -2,7 +2,6 @@ collections:
   chronic-care-protocol:
     output: true
     order:
-      - Diabetes/trial page.md
       - Diabetes/.keep
       - Diabetes/Background.md
       - Diabetes/Clinical Approach.md
