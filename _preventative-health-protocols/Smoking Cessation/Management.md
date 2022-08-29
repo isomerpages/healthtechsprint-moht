@@ -4,13 +4,12 @@ permalink: /preventative-health-protocols/Smoking-Cessation/management
 description: ""
 third_nav_title: Smoking Cessation
 ---
-
-### Non-pharmacological intervention
+## Non-pharmacological intervention
 
 1. Motivational Interviewing (MI) [b](b) 
 2. Cognitive Behavioural Therapy (CBT) [c](c)
 
-### Pharmacotherapy
+## Pharmacotherapy
 
 Recommended for patients with moderate-very high nicotine dependence [d]()
 
@@ -21,7 +20,7 @@ Licensing for Bupropion for smoking cessation under the Zyban® brand has been d
 
 *PLACEHOLDER: MOH to separately assess whether NRT should be subsidised. If so, there will be clinical guidelines released to guide appropriate prescription of NRT for subsidies to be accessed*
 
-### Referral resources
+## Referral resources
 
 For patients in pre-contemplation/contemplation stage, GPs may wish to refer to PCN nurses for brief counselling support as needed. 
 
