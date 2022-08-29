@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Healthier SG Care Protocol team
 locations:
   - address:
       - 31 Sesame Street
@@ -10,13 +10,11 @@ locations:
       - Singapore 123456
     operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: Can delete this address
 contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "If you have a query, feedback or wish to report a problem related to
-          this website, please fill in the online form
-          (https://form.gov.sg/6306e6e2284992001310d761). "
+      - other: XXX
     title: General Enquiries & Feedback
 ---
