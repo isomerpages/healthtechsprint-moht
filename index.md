@@ -10,18 +10,11 @@ sections:
       title: Trial - Care Protocol Website
       subtitle: Healthier SG Care Protocols for GPs
       background: /images/a-Healthier-Singapore-scaled.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: About Healthier SG
-          description: Find out more about HSG
-          url: https://www.healthiersg.gov.sg/
-        - title: Latest Updates
-          description: List of updates to protocols
-          url: https://gmail.com
-        - title: Risk Calculator
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Popular Protocols
+        options:
+          - title: Diabetes
+            url: https://healthtechsprint-moht-staging.netlify.app/chronic-care-protocol/diabetes/
   - infobar:
       title: Yes we know!
       subtitle: We are awesome
