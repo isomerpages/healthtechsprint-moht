@@ -17,6 +17,8 @@ sections:
             url: https://healthtechsprint-moht-staging.netlify.app/chronic-care-protocol/diabetes/
           - title: CMS-Sutra
             url: https://www.cfps.org.sg/
+          - title: 10-Year CAD Risk Calculator
+            url: https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622
   - infobar:
       title: Yes we know!
       subtitle: We are awesome
