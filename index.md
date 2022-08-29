@@ -7,13 +7,13 @@ permalink: /
 notification: "Note: This is a trial site and not meant for public consumption."
 sections:
   - hero:
-      title: Trial - Care Protocol Website
-      subtitle: Healthier SG Care Protocols for GPs
+      title: Healthier SG Care Protocols (Trial)
+      subtitle: This page is a trial version and not meant for external circulation
       background: /images/a-Healthier-Singapore-scaled.jpg
       dropdown:
-        title: Popular Protocols
+        title: Popular Resources
         options:
-          - title: Diabetes
+          - title: Diabetes Care Protocol
             url: https://healthtechsprint-moht-staging.netlify.app/chronic-care-protocol/diabetes/
   - infobar:
       title: Yes we know!
