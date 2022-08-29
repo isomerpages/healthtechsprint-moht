@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: XXX
+      - other: Can delete this too
     title: General Enquiries & Feedback
 ---
