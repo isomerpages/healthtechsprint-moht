@@ -23,7 +23,7 @@ sections:
             url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
   - infopic:
       title: About the Care Protocol Team
-      subtitle: Designed by GPs for GPs
+      subtitle: The Future of Primary Care
       description: Meet the team behind the protocols!
       button: Find out more!
       image: /images/FPC.jpeg
