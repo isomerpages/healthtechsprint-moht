@@ -20,3 +20,7 @@ third_nav_title: Diabetes
 	
 </details>
 <hr>
+
+[Diabetes Mellitus Jul 2014 - Summary Card (1.4 MB)](/files/cpg_diabetes-mellitus-summary-card---jul-2014.pdf)
+
+[MOH Diabetes Mellitus CPG Site](https://www.moh.gov.sg/hpp/doctors/guidelines/GuidelineDetails/cpgmed_diabetes_mellitus)
