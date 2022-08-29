@@ -4,8 +4,7 @@ permalink: /chronic-care-protocol/Diabetes-CP/t2dm-clinicalapproach
 description: ""
 third_nav_title: Diabetes
 ---
-
-# Clinical Approach for Diabetes
+## Clinical Approach for Diabetes
 
 1.  Optimise glycaemia control (Individualised). 
 
