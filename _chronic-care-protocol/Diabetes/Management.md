@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
-<details open><summary>Targets for relevant clinical parameters</summary>
+<details open><summary><font size="+1">Targets for relevant clinical parameters </font></summary>
 	<br>
 <table>
 <thead>
