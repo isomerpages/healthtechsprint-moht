@@ -13,3 +13,10 @@ third_nav_title: Diabetes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwfqn2Tl6lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 </details>
+<hr>
+<details><summary><font size="+1">Markers of glycemic control</font></summary>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MElQ1DCoGTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+</details>
+<hr>
