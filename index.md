@@ -33,4 +33,13 @@ sections:
       title: Updated Resources
       subtitle: Latest update
       button: See more
+  - infopic:
+      title: What is Healthier SG?
+      subtitle: About Healthier SG
+      description: We have built a good healthcare system in Singapore, but we need to
+        focus on better health and quality of life for everyone.
+      button: Find out more
+      url: https://www.healthiersg.gov.sg/
+      image: /images/HSG.jpg
+      alt: Image alt text
 ---
