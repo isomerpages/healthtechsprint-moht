@@ -15,6 +15,8 @@ sections:
         options:
           - title: Diabetes Care Protocol
             url: https://healthtechsprint-moht-staging.netlify.app/chronic-care-protocol/diabetes/
+          - title: CMS-Sutra
+            url: https://www.cfps.org.sg/
   - infobar:
       title: Yes we know!
       subtitle: We are awesome
