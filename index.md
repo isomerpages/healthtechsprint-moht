@@ -23,9 +23,10 @@ sections:
             url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
   - infopic:
       title: About the Care Protocol Team
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      subtitle: Designed by GPs for GPs
+      description: Meet the team behind the protocols!
+      button: Find out more!
       image: /images/FPC.jpeg
-      alt: Image alt text
+      alt: FPC Team
+      url: https://www.aic.sg/about-us/Pages/Initiatives/Healthier-SG.aspx
 ---
