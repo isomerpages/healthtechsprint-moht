@@ -22,6 +22,15 @@ sections:
           - title: DFS Risk Calculator
             url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
   - infopic:
+      title: What is Healthier SG?
+      subtitle: About Healthier SG
+      description: We have built a good healthcare system in Singapore, but we need to
+        focus on better health and quality of life for everyone.
+      button: Find out more
+      url: https://www.healthiersg.gov.sg/
+      image: /images/HSG.jpg
+      alt: Image alt text
+  - infopic:
       title: About the Care Protocol Team
       subtitle: The Future of Primary Care
       description: Meet the team behind the protocols!
@@ -33,13 +42,4 @@ sections:
       title: Updated Resources
       subtitle: Latest update
       button: See more
-  - infopic:
-      title: What is Healthier SG?
-      subtitle: About Healthier SG
-      description: We have built a good healthcare system in Singapore, but we need to
-        focus on better health and quality of life for everyone.
-      button: Find out more
-      url: https://www.healthiersg.gov.sg/
-      image: /images/HSG.jpg
-      alt: Image alt text
 ---
