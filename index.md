@@ -29,4 +29,8 @@ sections:
       image: /images/FPC.jpeg
       alt: FPC Team
       url: https://www.aic.sg/about-us/Pages/Initiatives/Healthier-SG.aspx
+  - resources:
+      title: Updated Resources
+      subtitle: Latest update
+      button: See more
 ---
