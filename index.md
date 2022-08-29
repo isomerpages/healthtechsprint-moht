@@ -21,10 +21,11 @@ sections:
             url: https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622
           - title: DFS Risk Calculator
             url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
-  - infobar:
-      title: Yes we know!
-      subtitle: We are awesome
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: About the Care Protocol Team
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/FPC.jpeg
+      alt: Image alt text
 ---
