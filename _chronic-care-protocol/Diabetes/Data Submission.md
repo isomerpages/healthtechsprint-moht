@@ -27,30 +27,30 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 </details>
 
 <details><summary>LIPID CONTROL</summary>
-
+<br>
 1.	LDL-C (mg/dL)* or LDL-C (mmol/L)* 
 </details>
 
 <details><summary>BLOOD PRESSURE CONTROL</summary>
-
+<br>
 1.	Systolic BP (mmHg)* <br>
 2.	Diastolic BP (mmHg)* 
 	</details>
 
 <details><summary>WEIGHT</summary>
-
+<br>
 1.	BMI (kg/m2), calculated from height*, weight*<br>
 2.	Date of screening
 </details>
 
 <details><summary>NEPHROPATHY ASSESSMENT</summary>
-
+<br>
 1.	Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)*  <br>
 2.	Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)* 
 </details>
 	
 <details><summary>EYE ASSESSMENT</summary> 
-
+<br>
 1.	Conducted *(Yes/No)<br>
 2.	Date of visit <br>
 3.	Image quality sufficient for reporting (Yes/ No)<br>
