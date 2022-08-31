@@ -10,12 +10,12 @@ The following data fields should also be documented in your case notes as part o
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 
 <h4>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </h4>
-
+<details>
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 
 	a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
-
+</details>
 <hr>
 <h4>B. DIAGNOSIS / ASSESSMENT</h4>
 
