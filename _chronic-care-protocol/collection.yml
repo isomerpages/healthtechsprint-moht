@@ -2,6 +2,7 @@ collections:
   chronic-care-protocol:
     output: true
     order:
+      - HYPERTENSION/Background.md
       - HYPERTENSION/.keep
       - Pre Diabetes/Background.md
       - Pre Diabetes/.keep
