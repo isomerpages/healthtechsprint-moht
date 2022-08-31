@@ -4,8 +4,7 @@ permalink: /chronic-care-protocol/Diabetes/dm-datasubmission/
 description: ""
 third_nav_title: Diabetes
 ---
-<div>
-	<h2> DATA SUBMISSION </h2>
+<h2> DATA SUBMISSION </h2>
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
@@ -19,7 +18,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h3>B. DIAGNOSIS / ASSESSMENT</h3>
 
 <h3>DM CONTROL</h3>
-<br>
+
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
@@ -115,5 +114,3 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 	(iv) Action, OR 
 	
 	(v) Maintenance.
-	
-	</div>
