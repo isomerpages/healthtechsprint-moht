@@ -8,7 +8,6 @@ third_nav_title: Diabetes
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
-
 <table>
 <thead>
   <tr>
@@ -42,6 +41,16 @@ For those marked with asterisks, these are mandatory data fields and tied to per
     <td>5</td>
     <td>WEIGHT</td>
     <td>1. BMI (kg/m2), calculated from height*, weight*<br>2. Date of screening</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>NEPHROPATHY ASSESSMENT</td>
+    <td>1. Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)* <br>2. Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)*</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>EYE ASSESSMENT</td>
+    <td>1. Conducted *(Yes/No)<br>2. Date of visit<br>3. Image quality sufficient for reporting (Yes/ No)<br>4. Results*	<br>&nbsp;&nbsp;&nbsp;&nbsp;i. No diabetic retinopathy/maculopathy<br>&nbsp;&nbsp;&nbsp;ii. Diabetic retinopathy present (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Non-Proliferative retinopathy<br>		- mild (Left/Right/Both)<br>		- moderate (Left/Right/Both)<br>		- severe (Left/Right/Both)&lt;<br><br>		<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Proliferative diabetic retinopathy (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;iii. Diabetic maculopathy present (Left/Right/Both) &lt;br&gt;<br><br>5. Follow up actions<br>&nbsp;&nbsp;&nbsp;&nbsp;i. Annual rescreen or <br>&nbsp;&nbsp;&nbsp;ii. Refer to ophthalmologist with or without urgency or<br>&nbsp;&nbsp;iii. Repeat in 6 months or<br>&nbsp;&nbsp;iv. Others</td>
   </tr>
 </tbody>
 </table>
