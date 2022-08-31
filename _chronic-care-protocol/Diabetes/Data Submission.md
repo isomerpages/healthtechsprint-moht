@@ -23,7 +23,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year <hr>
 
-	</details>
+</details>
 
 <details><summary>LIPID CONTROL</summary>
 <br>
