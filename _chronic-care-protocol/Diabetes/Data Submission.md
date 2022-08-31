@@ -4,7 +4,7 @@ permalink: /chronic-care-protocol/Diabetes/dm-datasubmission/
 description: ""
 third_nav_title: Diabetes
 ---
-<h3>DATA SUBMISSION</h3>
+<h3>Data Submission</h3>
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 <hr>
