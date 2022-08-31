@@ -2,6 +2,7 @@ collections:
   chronic-care-protocol:
     output: true
     order:
+      - Pre Diabetes/.keep
       - Diabetes/.keep
       - Diabetes/Background.md
       - Diabetes/Clinical Approach.md
