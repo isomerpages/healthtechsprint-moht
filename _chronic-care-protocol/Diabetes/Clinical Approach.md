@@ -8,9 +8,9 @@ third_nav_title: Diabetes
 
 
 1.  Optimise glycaemia control (Individualised). 
-<br>
+<br><br>
 
 2.  Avoid hyper and hypoglycaemic events.
-<br>
+<br><br>
 
 3. Screen, prevent & minimise Target Organ Damage (macro & micro complications) with help from community resources.
