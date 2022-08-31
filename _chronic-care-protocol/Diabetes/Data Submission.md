@@ -8,52 +8,7 @@ third_nav_title: Diabetes
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
-<table>
-<thead>
-  <tr>
-    <th>No</th>
-    <th>Domain</th>
-    <th>Data</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>ONBOARDING/LIFESTYLE QUESTIONNAIRE</td>
-    <td>1. Smoking Status*  (Never Smoker, Ex Smoker, Current)<br><br>2. Year started smoking* (Date)( (if smoker)<br><br>3. No. of sticks smoked/day* (Numeric) (if smoker)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>DM CONTROL</td>
-    <td>1. HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>2. Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>3. Diagnosis Year</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>LIPID CONTROL</td>
-    <td>1. LDL-C (mg/dL)* or LDL-C (mmol/L)*</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>BLOOD PRESSURE CONTROL</td>
-    <td>1. Systolic BP (mmHg)*<br>2. Diastolic BP (mmHg)*</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>WEIGHT</td>
-    <td>1. BMI (kg/m2), calculated from height*, weight*<br>2. Date of screening</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>NEPHROPATHY ASSESSMENT</td>
-    <td>1. Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)* <br>2. Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)*</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>EYE ASSESSMENT</td>
-    <td>1. Conducted *(Yes/No)<br>2. Date of visit<br>3. Image quality sufficient for reporting (Yes/ No)<br>4. Results*	<br>&nbsp;&nbsp;&nbsp;&nbsp;i. No diabetic retinopathy/maculopathy<br>&nbsp;&nbsp;&nbsp;ii. Diabetic retinopathy present (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Non-Proliferative retinopathy<br>		- mild (Left/Right/Both)<br>		- moderate (Left/Right/Both)<br>		- severe (Left/Right/Both)&lt;<br><br>		<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Proliferative diabetic retinopathy (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;iii. Diabetic maculopathy present (Left/Right/Both) &lt;br&gt;<br><br>5. Follow up actions<br>&nbsp;&nbsp;&nbsp;&nbsp;i. Annual rescreen or <br>&nbsp;&nbsp;&nbsp;ii. Refer to ophthalmologist with or without urgency or<br>&nbsp;&nbsp;iii. Repeat in 6 months or<br>&nbsp;&nbsp;iv. Others</td>
-  </tr>
-</tbody>
-</table>
+<table><thead><tr><th>No</th><th>Domain</th><th>Data</th></tr></thead><tbody><tr><td>1</td><td>ONBOARDING/LIFESTYLE QUESTIONNAIRE</td><td>1. Smoking Status*  (Never Smoker, Ex Smoker, Current)<br><br>2. Year started smoking* (Date)( (if smoker)<br><br>3. No. of sticks smoked/day* (Numeric) (if smoker)</td></tr><tr><td>2</td><td>DM CONTROL</td><td>1. HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>2. Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>3. Diagnosis Year</td></tr><tr><td>3</td><td>LIPID CONTROL</td><td>1. LDL-C (mg/dL)* or LDL-C (mmol/L)*</td></tr><tr><td>4</td><td>BLOOD PRESSURE CONTROL</td><td>1. Systolic BP (mmHg)*<br>2. Diastolic BP (mmHg)*</td></tr><tr><td>5</td><td>WEIGHT</td><td>1. BMI (kg/m2), calculated from height*, weight*<br>2. Date of screening</td></tr><tr><td>6</td><td>NEPHROPATHY ASSESSMENT</td><td>1. Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)* <br>2. Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)*</td></tr><tr><td></td><td>EYE ASSESSMENT</td><td><details>1. Conducted *(Yes/No)<br>2. Date of visit<br>3. Image quality sufficient for reporting (Yes/ No)<br>4. Results*	<br>    i. No diabetic retinopathy/maculopathy<br>   ii. Diabetic retinopathy present (Left/Right/Both)<br>      a. Non-Proliferative retinopathy<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- mild (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- moderate (Left/Right/Both)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- severe (Left/Right/Both)&lt;<br><br>      b. Proliferative diabetic retinopathy (Left/Right/Both)<br>   <br>   iii. Diabetic maculopathy present (Left/Right/Both) &lt;br&gt;<br><br>5. Follow up actions:<br>    i. Annual rescreen or <br>   ii. Refer to ophthalmologist with or without urgency or<br>  iii. Repeat in 6 months or<br>  iv. Others</details></td></tr></tbody></table>
 
 <h4>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </h4>
 <details>
