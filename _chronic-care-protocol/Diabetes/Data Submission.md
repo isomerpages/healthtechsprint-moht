@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diabetes
 ---
 <div>
-## DATA SUBMISSION
+	<h2> DATA SUBMISSION </h2>
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
@@ -13,9 +13,8 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h3>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE</h3>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
-
-a.	Year started smoking* (Date)( (if smoker)
-2.	No. of sticks smoked/day*(Numeric) (if smoker)
+<br>&nbsp a.	Year started smoking* (Date)( (if smoker)
+<br>2.	No. of sticks smoked/day*(Numeric) (if smoker)
 
 <h3>B. DIAGNOSIS / ASSESSMENT</h3>
 
