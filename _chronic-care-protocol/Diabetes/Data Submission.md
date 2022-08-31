@@ -15,6 +15,7 @@ a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
 
 B. DIAGNOSIS / ASSESSMENT
+
 DM CONTROL
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)
@@ -22,6 +23,7 @@ DM CONTROL
 
 LIPID CONTROL
 1.	LDL-C (mg/dL)* or LDL-C (mmol/L)* 
+
 BLOOD PRESSURE CONTROL
 1.	Systolic BP (mmHg)* 
 2.	Diastolic BP (mmHg)* 
@@ -40,8 +42,9 @@ EYE ASSESSMENT
 4.	Results* 
 i.	No diabetic retinopathy/maculopathy 
 ii.	Diabetic retinopathy present (Left/Right/Both)
+
 a.	Non-Proliferative retinopathy – 
--	mild (Left/Right/Both)
+-	 mild (Left/Right/Both)
 -	 moderate (Left/Right/Both)
 -	 severe (Left/Right/Both)
 b.	Proliferative diabetic retinopathy (Left/Right/Both)
