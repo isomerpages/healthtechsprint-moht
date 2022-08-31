@@ -12,7 +12,6 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h4>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </h4>
 <details>
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
-
 	a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
 </details>
@@ -24,6 +23,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
 <br>
+	
 </details>
 
 <details><summary>LIPID CONTROL</summary>
