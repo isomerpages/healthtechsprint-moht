@@ -9,7 +9,7 @@ The following data fields should also be documented in your case notes as part o
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 <hr>
 
-<table>
+<table width="100%">
 <thead>
   <tr>
     <th>No</th>
