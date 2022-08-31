@@ -9,6 +9,43 @@ third_nav_title: Diabetes
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 
+<table>
+<thead>
+  <tr>
+    <th>No</th>
+    <th>Domain</th>
+    <th>Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>ONBOARDING/LIFESTYLE QUESTIONNAIRE</td>
+    <td>1. Smoking Status*  (Never Smoker, Ex Smoker, Current)<br><br>2. Year started smoking* (Date)( (if smoker)<br><br>3. No. of sticks smoked/day* (Numeric) (if smoker)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>DM CONTROL</td>
+    <td>1. HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>2. Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>3. Diagnosis Year</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>LIPID CONTROL</td>
+    <td>1. LDL-C (mg/dL)* or LDL-C (mmol/L)*</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>BLOOD PRESSURE CONTROL</td>
+    <td>1. Systolic BP (mmHg)*<br>2. Diastolic BP (mmHg)*</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>WEIGHT</td>
+    <td>1. BMI (kg/m2), calculated from height*, weight*<br>2. Date of screening</td>
+  </tr>
+</tbody>
+</table>
+
 <h4>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </h4>
 <details>
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
