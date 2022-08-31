@@ -13,7 +13,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <details>
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 	a.	Year started smoking* (Date)( (if smoker)
-2.	No. of sticks smoked/day*(Numeric) (if smoker)
+2.	No. of sticks smoked/day*(Numeric) (if smoker)<hr>
 </details>
 <h4>B. DIAGNOSIS / ASSESSMENT</h4>
 
@@ -27,8 +27,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 <details><summary>LIPID CONTROL</summary>
 <br>
-1.	LDL-C (mg/dL)* or LDL-C (mmol/L)*
-	<br>
+1.	LDL-C (mg/dL)* or LDL-C (mmol/L)*<hr>
 </details>
 
 <details><summary>BLOOD PRESSURE CONTROL</summary>
