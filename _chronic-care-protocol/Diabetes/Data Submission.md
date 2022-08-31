@@ -4,6 +4,7 @@ permalink: /chronic-care-protocol/Diabetes/dm-datasubmission/
 description: ""
 third_nav_title: Diabetes
 ---
+<div>
 ## DATA SUBMISSION
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
@@ -81,8 +82,7 @@ a.	Year started smoking* (Date)( (if smoker)
 
 1.	Conducted*(Yes/No)
 2.	Date of visit
-3.	Outcome* (refer to ACG 2019 DFS guideline) for both left and right Foot 
-
+3.	Outcome* (refer to ACG 2019 DFS guideline) for both left and right foot 
 	i.	Low risk diabetic foot ulcers
 
 	ii.	Moderate risk for diabetic foot ulcers 
@@ -116,3 +116,5 @@ a.	Year started smoking* (Date)( (if smoker)
 	(iv) Action, OR 
 	
 	(v) Maintenance.
+	
+	</div>
