@@ -97,8 +97,22 @@ a.	Year started smoking* (Date)( (if smoker)
 1.	Influenza Vaccination* (Yes/No), Date of Vaccination
 2.	Pneumococcal Vaccination* (Yes/No), Date of Vaccination
 
-SMOKING
-3.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
-b.	Year started smoking* (Date)( (if smoker)
-4.	No. of sticks smoked/day*(Numeric) (if smoker)
-5.	State of change: (i) Pre-contemplation, (ii) Contemplation, (iii) Preparation (iv) Action, OR (v) Maintenance.
+<h3>SMOKING</h3>
+
+1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
+	
+2.	Year started smoking* (Date)( (if smoker)
+	
+3.	No. of sticks smoked/day*(Numeric) (if smoker)
+
+4.	State of change:
+
+	(i) Pre-contemplation, 
+	
+	(ii) Contemplation, 
+	
+	(iii) Preparation 
+	
+	(iv) Action, OR 
+	
+	(v) Maintenance.
