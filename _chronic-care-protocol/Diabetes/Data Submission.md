@@ -70,13 +70,13 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 5.	Follow up actions<br>
 <ol type="i">
-	<li>i.	Annual rescreen/ or 
+	<li>i.	Annual rescreen/ or </li>
 
-	<li>ii.	Refer to ophthalmologist with or without urgency or 
+	<li>ii.	Refer to ophthalmologist with or without urgency or </li>
 
-	<li>iii.	Repeat in 6 months or 
+	<li>iii.	Repeat in 6 months or </li>
 
-	<li>iv.	Others
+	<li>iv.	Others</li>
 </ol>
 
 6.	Other findings (optional)<br>
