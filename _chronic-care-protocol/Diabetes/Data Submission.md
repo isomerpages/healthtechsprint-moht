@@ -13,15 +13,15 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h3>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE</h3>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
-<br>&nbsp a.	Year started smoking* (Date)( (if smoker)
+<br>&nbsp; a.	Year started smoking* (Date)( (if smoker)
 <br>2.	No. of sticks smoked/day*(Numeric) (if smoker)
 
 <h3>B. DIAGNOSIS / ASSESSMENT</h3>
 
 <h3>DM CONTROL</h3>
-
-1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)
-2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)
+<br>
+1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
+2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
 
 <h3>LIPID CONTROL</h3>
@@ -30,38 +30,38 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 <h3>BLOOD PRESSURE CONTROL</h3>
 
-1.	Systolic BP (mmHg)* 
+1.	Systolic BP (mmHg)* <br>
 2.	Diastolic BP (mmHg)* 
 
 <h3>WEIGHT</h3>
 
-1.	BMI (kg/m2), calculated from height*, weight*
+1.	BMI (kg/m2), calculated from height*, weight*<br>
 2.	Date of screening
 
 <h3>NEPHROPATHY ASSESSMENT</h3>
 
-1.	Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)*  
+1.	Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)*  <br>
 2.	Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)* 
 
 <h3>EYE ASSESSMENT</h3> 
 
-1.	Conducted *(Yes/No)
-2.	Date of visit 
-3.	Image quality sufficient for reporting (Yes/ No)
-4.	Results* 
+1.	Conducted *(Yes/No)<br>
+2.	Date of visit <br>
+3.	Image quality sufficient for reporting (Yes/ No)<br>
+4.	Results* <br>
 
-	i.	No diabetic retinopathy/maculopathy 
+	i.	No diabetic retinopathy/maculopathy <br>
 
-	ii.	Diabetic retinopathy present (Left/Right/Both)
+	ii.	Diabetic retinopathy present (Left/Right/Both)<br>
 
-		a.	Non-Proliferative retinopathy 
-				- mild (Left/Right/Both)
-				- moderate (Left/Right/Both)
-				- severe (Left/Right/Both)
+		a.	Non-Proliferative retinopathy <br>
+				- mild (Left/Right/Both)<br>
+				- moderate (Left/Right/Both)<br>
+				- severe (Left/Right/Both)<br>
 
-		b.	Proliferative diabetic retinopathy (Left/Right/Both)
+		b.	Proliferative diabetic retinopathy (Left/Right/Both)<br>
 
-	iii.	Diabetic maculopathy present (Left/Right/Both) 
+	iii.	Diabetic maculopathy present (Left/Right/Both) <br>
 
 5.	Follow up actions
 
