@@ -2,10 +2,10 @@ collections:
   chronic-care-protocol:
     output: true
     order:
-      - Diabetes/Data Submission.md
       - Diabetes/.keep
       - Diabetes/Background.md
       - Diabetes/Clinical Approach.md
       - Diabetes/Management.md
+      - Diabetes/Data Submission.md
       - Diabetes/Internal Resources.md
       - Diabetes/External Resources.md
