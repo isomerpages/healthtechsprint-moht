@@ -2,10 +2,10 @@ collections:
   preventative-health-protocols:
     output: true
     order:
-      - BMI Control/Background.md
-      - BMI Control/.keep
       - Smoking Cessation/.keep
       - Smoking Cessation/Background.md
       - Smoking Cessation/Clinical Approach.md
       - Smoking Cessation/Management.md
       - Smoking Cessation/Data submission.md
+      - BMI Control/.keep
+      - BMI Control/Background.md
