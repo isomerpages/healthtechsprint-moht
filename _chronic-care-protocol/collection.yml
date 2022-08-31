@@ -4,8 +4,8 @@ collections:
     order:
       - Lipids/Background.md
       - Lipids/.keep
-      - HYPERTENSION/Background.md
-      - HYPERTENSION/.keep
+      - Hypertension/Background.md
+      - Hypertension/.keep
       - Pre Diabetes/Background.md
       - Pre Diabetes/.keep
       - Diabetes/.keep
