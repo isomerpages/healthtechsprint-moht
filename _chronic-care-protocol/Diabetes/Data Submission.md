@@ -68,7 +68,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 	iii.	Diabetic maculopathy present (Left/Right/Both) <br>
 
-5.	Follow up actions<br>
+5.	Follow up actions
 <ol type="i">
 	<li>i.	Annual rescreen/ or </li>
 
