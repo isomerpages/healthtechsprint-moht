@@ -29,7 +29,8 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 <details><summary>LIPID CONTROL</summary>
 <br>
-1.	LDL-C (mg/dL)* or LDL-C (mmol/L)* 
+1.	LDL-C (mg/dL)* or LDL-C (mmol/L)*
+	<br>
 </details>
 
 <details><summary>BLOOD PRESSURE CONTROL</summary>
