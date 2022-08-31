@@ -4,47 +4,52 @@ permalink: /chronic-care-protocol/Diabetes/dm-datasubmission/
 description: ""
 third_nav_title: Diabetes
 ---
-<h2> DATA SUBMISSION </h2>
+<h3> DATA SUBMISSION </h3>
 
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 
-<details><summary><font size="+1">A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </font></summary>
+<h4>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE </h4>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 
 	a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
-</details>
-<hr>
-<details><summary><font size="+1">B. DIAGNOSIS / ASSESSMENT</font></summary>
 
-<h3>DM CONTROL</h3>
+<hr>
+<h4>B. DIAGNOSIS / ASSESSMENT</h4>
+
+<details><summary>DM CONTROL</summary>
 
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
+</details>
 
-<h3>LIPID CONTROL</h3>
+<details><summary>LIPID CONTROL</summary>
 
 1.	LDL-C (mg/dL)* or LDL-C (mmol/L)* 
+</details>
 
-<h3>BLOOD PRESSURE CONTROL</h3>
+<details><summary>BLOOD PRESSURE CONTROL</summary>
 
 1.	Systolic BP (mmHg)* <br>
 2.	Diastolic BP (mmHg)* 
+	</details>
 
-<h3>WEIGHT</h3>
+<details><summary>WEIGHT</summary>
 
 1.	BMI (kg/m2), calculated from height*, weight*<br>
 2.	Date of screening
+</details>
 
-<h3>NEPHROPATHY ASSESSMENT</h3>
+<details><summary>NEPHROPATHY ASSESSMENT</summary>
 
 1.	Serum creatinine* (μmol/L) or eGFR (ml/min/1.73m2)*  <br>
 2.	Urine ACR (mg/mmol)*  or Urine PCR (mg/mmol)* 
-
-<h3>EYE ASSESSMENT</h3> 
+</details>
+	
+<details><summary>EYE ASSESSMENT</summary> 
 
 1.	Conducted *(Yes/No)<br>
 2.	Date of visit <br>
@@ -76,9 +81,10 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 6.	Other findings (optional)
 
-7.	Detailed report & image (optional)  
+7.	Detailed report & image (optional) 
+	</details>
 
-<h3>FOOT ASSESSMENT</h3> 
+<details><summary>FOOT ASSESSMENT</summary> 
 
 1.	Conducted*(Yes/No)
 2.	Date of visit
@@ -91,13 +97,15 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 4.	DFS performed by (Nurse, Technician, Podiatrist etc) 
 5.	Services provider (PCN, CHC, SATA, in house etc) 
 6.	Patient Education done (Yes/No)
+</details>
 
-<h3>VACCINATION</h3>
+<details><summary>VACCINATION</h3>
 
 1.	Influenza Vaccination* (Yes/No), Date of Vaccination
 2.	Pneumococcal Vaccination* (Yes/No), Date of Vaccination
-
-<h3>SMOKING</h3>
+</details>
+	
+<details><summary>SMOKING</summary>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 	
