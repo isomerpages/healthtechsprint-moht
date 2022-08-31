@@ -22,10 +22,9 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
-<br>
-	
-</details>
 
+	</details>
+<br>
 <details><summary>LIPID CONTROL</summary>
 <br>
 1.	LDL-C (mg/dL)* or LDL-C (mmol/L)*
