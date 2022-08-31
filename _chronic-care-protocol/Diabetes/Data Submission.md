@@ -78,9 +78,11 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 	iv.	Others
 
+
 6.	Other findings (optional)
 
-	7.	Detailed report & image (optional) </p>
+
+7.	Detailed report & image (optional) </p>
 	</details>
 
 <details><summary>FOOT ASSESSMENT</summary> 
