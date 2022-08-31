@@ -4,15 +4,17 @@ permalink: /chronic-care-protocol/Diabetes/dm-datasubmission/
 description: ""
 third_nav_title: Diabetes
 ---
-DATA SUBMISSION  
+DATA SUBMISSION
+
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
+
 A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
 
-B.DIAGNOSIS / ASSESSMENT
+B. DIAGNOSIS / ASSESSMENT
 DM CONTROL
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)
