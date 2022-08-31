@@ -16,7 +16,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 	a.	Year started smoking* (Date)( (if smoker)
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
 </details>
-<hr>
+
 <h4>B. DIAGNOSIS / ASSESSMENT</h4>
 
 <details><summary>DM CONTROL</summary>
