@@ -13,7 +13,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h3>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE</h3>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
-<br>&nbsp; a.	Year started smoking* (Date)( (if smoker)
+<br>  a.	Year started smoking* (Date)( (if smoker)
 <br>2.	No. of sticks smoked/day*(Numeric) (if smoker)
 
 <h3>B. DIAGNOSIS / ASSESSMENT</h3>
