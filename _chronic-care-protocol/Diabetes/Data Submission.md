@@ -99,7 +99,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 6.	Patient Education done (Yes/No)
 </details>
 
-<details><summary>VACCINATION</h3>
+<details><summary>VACCINATION</summary>
 
 1.	Influenza Vaccination* (Yes/No), Date of Vaccination
 2.	Pneumococcal Vaccination* (Yes/No), Date of Vaccination
