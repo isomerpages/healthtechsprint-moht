@@ -7,6 +7,8 @@ links:
     sublinks:
       - title: GPFirst
         url: /permalink
+      - title: Health Plan
+        url: /permalink
   - title: Chronic Care Protocols
     collection: chronic-care-protocol
   - title: Preventative Health Protocols
