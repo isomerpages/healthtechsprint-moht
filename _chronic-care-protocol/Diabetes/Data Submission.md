@@ -20,7 +20,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <h4>B. DIAGNOSIS / ASSESSMENT</h4>
 
 <details><summary>DM CONTROL</summary>
-
+<br>
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
 3.	Diagnosis Year 
