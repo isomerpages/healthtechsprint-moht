@@ -49,7 +49,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 </details>
 	
 <details><summary>EYE ASSESSMENT</summary> 
-<br>
+<p>
 1.	Conducted *(Yes/No)<br>
 2.	Date of visit <br>
 3.	Image quality sufficient for reporting (Yes/ No)<br>
@@ -80,7 +80,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 6.	Other findings (optional)
 
-7.	Detailed report & image (optional) 
+	7.	Detailed report & image (optional) </p>
 	</details>
 
 <details><summary>FOOT ASSESSMENT</summary> 
