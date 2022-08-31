@@ -2,6 +2,7 @@ collections:
   chronic-care-protocol:
     output: true
     order:
+      - Lipids/Background.md
       - Lipids/.keep
       - HYPERTENSION/Background.md
       - HYPERTENSION/.keep
