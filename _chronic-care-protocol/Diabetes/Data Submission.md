@@ -67,4 +67,3 @@ For those marked with asterisks, these are mandatory data fields and tied to per
     <td>SMOKING</td>
     <td><details>1. Smoking Status*  (Never Smoker, Ex Smoker, Current)<br>	<br>2. Year started smoking* (Date)( (if smoker)<br>	<br>3. No. of sticks smoked/day*(Numeric) (if smoker)<br><br>4. State of change:<br>&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;Pre-contemplation, <br>&nbsp;&nbsp;&nbsp;(ii) Contemplation,<br>&nbsp;&nbsp;&nbsp;(iii) Preparation	<br>&nbsp;&nbsp;&nbsp;(iv) Action, OR<br>&nbsp;&nbsp;&nbsp;(v) Maintenance.</details></td>
   </tr>
-</table>
