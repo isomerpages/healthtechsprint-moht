@@ -2,10 +2,6 @@ collections:
   preventative-health-protocols:
     output: true
     order:
-      - Cardiovascular Risk Assessment/Background.md
-      - Cardiovascular Risk Assessment/.keep
-      - Cancer Screening/Background.md
-      - Cancer Screening/.keep
       - Smoking Cessation/.keep
       - Smoking Cessation/Background.md
       - Smoking Cessation/Clinical Approach.md
@@ -13,3 +9,7 @@ collections:
       - Smoking Cessation/Data submission.md
       - BMI Control/.keep
       - BMI Control/Background.md
+      - Cardiovascular Risk Assessment/.keep
+      - Cardiovascular Risk Assessment/Background.md
+      - Cancer Screening/.keep
+      - Cancer Screening/Background.md
