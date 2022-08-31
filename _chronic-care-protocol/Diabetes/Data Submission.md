@@ -21,8 +21,8 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 <br>
 1.	HbA1c (%)*or Fasting Plasma Glucose (FPG) (mmol/L or (mg/ dL)<br>
 2.	Oral Glucose Tolerance Test (OGTT) (mmol/L or mg/dL)<br>
-3.	Diagnosis Year 
-<hr>
+3.	Diagnosis Year <hr>
+
 	</details>
 
 <details><summary>LIPID CONTROL</summary>
@@ -86,9 +86,9 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 <details><summary>FOOT ASSESSMENT</summary> 
 
-1.	Conducted*(Yes/No)
-2.	Date of visit
-3.	Outcome* (refer to ACG 2019 DFS guideline) for both left and right foot 
+1.	Conducted*(Yes/No)<br>
+2.	Date of visit<br>
+3.	Outcome* (refer to ACG 2019 DFS guideline) for both left and right foot<br> 
 	i.	Low risk diabetic foot ulcers
 
 	ii.	Moderate risk for diabetic foot ulcers 
