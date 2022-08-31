@@ -49,7 +49,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 </details>
 	
 <details><summary>EYE ASSESSMENT</summary> 
-<p>
+
 1.	Conducted *(Yes/No)<br>
 2.	Date of visit <br>
 3.	Image quality sufficient for reporting (Yes/ No)<br>
@@ -68,21 +68,21 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 
 	iii.	Diabetic maculopathy present (Left/Right/Both) <br>
 
-5.	Follow up actions
+5.	Follow up actions<br>
+<ol type="i">
+	<li>i.	Annual rescreen/ or 
 
-	i.	Annual rescreen/ or 
+	<li>ii.	Refer to ophthalmologist with or without urgency or 
 
-	ii.	Refer to ophthalmologist with or without urgency or 
+	<li>iii.	Repeat in 6 months or 
 
-	iii.	Repeat in 6 months or 
+	<li>iv.	Others
+</ol>
 
-	iv.	Others
-
-
-6.	Other findings (optional)
+6.	Other findings (optional)<br>
 
 
-7.	Detailed report & image (optional) </p>
+7.	Detailed report & image (optional) <hr>
 	</details>
 
 <details><summary>FOOT ASSESSMENT</summary> 
