@@ -24,7 +24,7 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 3.	Diagnosis Year 
 
 	</details>
-<br>
+<hr>
 <details><summary>LIPID CONTROL</summary>
 <br>
 1.	LDL-C (mg/dL)* or LDL-C (mmol/L)*
