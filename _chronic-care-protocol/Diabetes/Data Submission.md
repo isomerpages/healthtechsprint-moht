@@ -55,6 +55,7 @@ i.	Annual rescreen/ or
 ii.	Refer to ophthalmologist with or without urgency or 
 iii.	Repeat in 6 months or 
 iv.	Others
+
 6.	Other findings (optional)
 7.	Detailed report & image (optional)  
 
