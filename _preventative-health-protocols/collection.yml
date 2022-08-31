@@ -2,6 +2,7 @@ collections:
   preventative-health-protocols:
     output: true
     order:
+      - Cancer Screening/Background.md
       - Cancer Screening/.keep
       - Smoking Cessation/.keep
       - Smoking Cessation/Background.md
