@@ -6,7 +6,7 @@ third_nav_title: Diabetes
 ---
 ## Clinical Approach for Diabetes
 
-<img src="/images/pensive.jpg" width="50%"> 
+![](/images/healthcare-banner.jpg)
 
 1.  Optimise glycaemia control (Individualised). 
 <br><br>
