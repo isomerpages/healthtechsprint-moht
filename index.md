@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Healthier SG Care Protocols Trial
+description: Healthier SG Care Protocols Trial site
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Note: This is a trial site and not meant for public consumption."
@@ -43,3 +43,4 @@ sections:
       subtitle: Latest update
       button: See more
 ---
+
