@@ -9,15 +9,15 @@ third_nav_title: Diabetes
 The following data fields should also be documented in your case notes as part of good clinical practice for all patients enrolled to your practice.
 For those marked with asterisks, these are mandatory data fields and tied to per capita payments. 
 
-<h3>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE</h3>
+<details><summary>A.	ONBOARDING/LIFESTYLE QUESTIONNAIRE</summary>
 
 1.	Smoking Status*  (Never Smoker, Ex Smoker, Current)
 
 	a.	Year started smoking* (Date)( (if smoker)
-
 2.	No. of sticks smoked/day*(Numeric) (if smoker)
-
-<h3>B. DIAGNOSIS / ASSESSMENT</h3>
+</details>
+<hr>
+<details><summary>B. DIAGNOSIS / ASSESSMENT</summary>
 
 <h3>DM CONTROL</h3>
 
@@ -116,3 +116,4 @@ For those marked with asterisks, these are mandatory data fields and tied to per
 	(iv) Action, OR 
 	
 	(v) Maintenance.
+	</details>
