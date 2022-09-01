@@ -14,7 +14,7 @@ sections:
         title: Popular Resources
         options:
           - title: Diabetes Care Protocol
-            url: https://healthtechsprint-moht-staging.netlify.app/chronic-care-protocol/diabetes/
+            url: https://healthtechsprint-moht-staging.netlify.app/diabetes-folder/diabetes-subfolder/diabetesbackground/
           - title: CMS-Sutra
             url: https://www.cfps.org.sg/
           - title: 10-Year CAD Risk Calculator
@@ -43,4 +43,3 @@ sections:
       subtitle: Latest update
       button: See more
 ---
-
