@@ -8,4 +8,4 @@ Placeholder for MM
 
 Also my playground to try out isomer capabilities
 
-<iframe src="https://docs.google.com/presentation/d/1CecNKvR8T5l6Y85tVFmicKUYIYjl6gokPFWBjO8vh5s/edit?usp=sharing" width="100%"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0KxCgTZALuTem1AGFwBtLJ3T18lv_wY32ZlY7jru-MsBZjsLfe1PXQDs-3cKfx2xF877F59FuJB6W/embed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
