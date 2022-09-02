@@ -7,7 +7,7 @@ permalink: /
 notification: "Note: This is a trial site and not meant for public consumption."
 sections:
   - hero:
-      title: Healthier SG Care Protocols (Trial)
+      title: Healthier SG Care Protocols (Showcase)
       subtitle: This page is a trial version and not meant for external circulation
       background: /images/a-Healthier-Singapore-scaled.jpg
       dropdown:
