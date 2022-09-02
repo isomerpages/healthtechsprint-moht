@@ -13,10 +13,10 @@ sections:
       dropdown:
         title: Popular Resources
         options:
+          - title: MOHT - OGP Sharing
+            url: /presentation/
           - title: Diabetes Care Protocol
             url: https://healthtechsprint-moht-staging.netlify.app/diabetes-folder/diabetes-subfolder/diabetesbackground/
-          - title: CMS-Sutra
-            url: https://www.cfps.org.sg/
           - title: 10-Year CAD Risk Calculator
             url: https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622
           - title: DFS Risk Calculator
