@@ -9,7 +9,8 @@ notification: "Note: This site is for a showcase purposes only and not
 sections:
   - hero:
       title: Healthier SG Care Protocols (Showcase)
-      subtitle: This page is a trial version and not meant for external circulation
+      subtitle: "Note: This site is for a showcase purposes only and not
+        representative of the eventual site."
       background: /images/a-Healthier-Singapore-scaled.jpg
       dropdown:
         title: Popular Resources
