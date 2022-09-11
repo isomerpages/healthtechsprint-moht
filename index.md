@@ -4,8 +4,8 @@ title: Healthier SG Care Protocols Trial
 description: Healthier SG Care Protocols Trial site
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Note: This site is for a showcase purposes only and not
-  representative of the eventual site."
+notification: "Note: This site is for a showcase purposes only. Please read T&Cs
+  if in doubt. :)"
 sections:
   - hero:
       title: Healthier SG Care Protocols (Showcase)
