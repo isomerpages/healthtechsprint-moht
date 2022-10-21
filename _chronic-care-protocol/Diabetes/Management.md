@@ -88,12 +88,12 @@ c) Special circumstances like Acute Illness, dental care, Pregnancy, Ramadan, Tr
 
 Influenza + Pneumococcal.
 
-<HR>
+<HR id="RA">
 
 ## Regular Assessment
 
 BP, BMI, Lipid, HbA1c, DRP, (minimum dataset for reporting & referral guideliness), DFS (Guidelines & Calculator), Kidney, Cardiac (baseline ECG) and smoking.
 
-<hr id="RA" >
+<hr>
 
 ## Screen and Co-Manage Other Comorbidities
