@@ -1,10 +1,12 @@
 ---
 title: Management
-permalink: /chronic-care-protocol/Diabetes/management
+permalink: /chronic-care-protocol/Diabetes/management/
 description: ""
 third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
+<a href="RA" > Jump to RA </a>
+	
 <details open><summary><font size="+1">Targets for relevant clinical parameters </font></summary>
 	<br>
 <table>
@@ -92,6 +94,6 @@ Influenza + Pneumococcal.
 
 BP, BMI, Lipid, HbA1c, DRP, (minimum dataset for reporting & referral guideliness), DFS (Guidelines & Calculator), Kidney, Cardiac (baseline ECG) and smoking.
 
-<hr>
+<hr id="RA" >
 
 ## Screen and Co-Manage Other Comorbidities
