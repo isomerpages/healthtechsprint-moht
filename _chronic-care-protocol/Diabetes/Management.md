@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diabetes
 ---
 ## Targets of DM Management 
-<a href="#RA" > Jump to RA </a>
+<a href="#RA" > Jump to Regular Assessment </a>
 	
 <details open><summary><font size="+1">Targets for relevant clinical parameters </font></summary>
 	<br>
