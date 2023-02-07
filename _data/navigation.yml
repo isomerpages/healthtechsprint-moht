@@ -13,3 +13,5 @@ links:
     collection: chronic-care-protocol
   - title: Preventative Health Protocols
     collection: preventative-health-protocols
+  - title: Useful resources
+    url: /uresources
