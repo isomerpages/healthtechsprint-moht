@@ -15,7 +15,7 @@ sections:
       dropdown:
         title: Popular Resources
         options:
-          - title: MOHT - OGP Sharing
+          - title: Digital Hacks Brownbag Sharing
             url: /presentation/
           - title: Diabetes Care Protocol
             url: https://healthtechsprint-moht-staging.netlify.app/diabetes-folder/diabetes-subfolder/diabetesbackground/
