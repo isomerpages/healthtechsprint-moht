@@ -3,7 +3,7 @@ title: Useful Resources
 permalink: /uresources/
 description: ""
 ---
-#### Below are some curate data from Data.gov.sg that you might find useful:
+#### Below are some curated data from Data.gov.sg that you might find useful:
 
 <details><summary><font size="+1">Average daily number of PCR swabs tested</font></summary>
 <br>
