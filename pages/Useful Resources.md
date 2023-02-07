@@ -3,6 +3,8 @@ title: Useful Resources
 permalink: /uresources/
 description: ""
 ---
+#### Below are some curate data from Data.gov.sg that you might find useful:
+
 <details><summary><font size="+1">Average daily number of PCR swabs tested</font></summary>
 <br>
 	
@@ -20,5 +22,5 @@ description: ""
 <hr>
 
 <details><summary><font size="+1">List of Silver Generation Satellite Offices </font></summary>
-<iframe width="1024" height="900" src="https://data.gov.sg/dataset/sgo-satellite-offices/resource/25c917a4-d670-4696-9053-e22164a5a8f7/view/cc8ba5bd-e498-406a-bf92-7e4c1bdfcce9" frameBorder="0"> </iframe>
+<iframe width="600" height="900" src="https://data.gov.sg/dataset/sgo-satellite-offices/resource/25c917a4-d670-4696-9053-e22164a5a8f7/view/cc8ba5bd-e498-406a-bf92-7e4c1bdfcce9" frameBorder="0"> </iframe>
 </details>
