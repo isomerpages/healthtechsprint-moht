@@ -19,8 +19,8 @@ sections:
             url: /presentation/
           - title: Diabetes Care Protocol
             url: /diabetes-folder/Diabetes-Subfolder/diabetesbackground/
-          - title: 10-Year CAD Risk Calculator
-            url: https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622
+          - title: CVD Risk Calculator
+            url: https://www.checkfirst.gov.sg/c/550207d9-0571-483a-8461-f8a9ce13d1d7
           - title: DFS Risk Calculator
             url: https://www.checkfirst.gov.sg/c/5b7263be-457c-4698-b989-2249901ab992
   - infopic:
