@@ -1,12 +1,12 @@
 ---
 title: Internal Resources
-permalink: /chronic-care-protocol/Diabetes-CP/T2DM-internalresources
+permalink: /chronic-care-protocol/Diabetes-CP/T2DM-internalresources/
 description: ""
 third_nav_title: Diabetes
 ---
-## 10-Year Coronary Artery Disease Risk Calculator
-<details><summary> <font size="+1">Click here to assess the CAD risk calculator</font></summary>
-<iframe width="100%" height="415" src="https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622"></iframe>
+## Cardiovascular Disease Risk Calculator
+<details><summary> <font size="+1">Click here to assess the CVD risk calculator</font></summary>
+<iframe width="100%" height="415" src="https://www.checkfirst.gov.sg/c/550207d9-0571-483a-8461-f8a9ce13d1d7"></iframe>
 	</details>
 	
 	
