@@ -1,0 +1,4 @@
+collections:
+  clinical-calculators-uat:
+    output: true
+    order: []
