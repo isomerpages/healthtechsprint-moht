@@ -3,10 +3,6 @@ title: Background
 permalink: /clinical-calculators-testing/calbg/
 description: ""
 ---
-# INTENT OF CALCULATOR
+# Background of Calculator
 
-1. Remind GPs on the key parameters they need to take note of when assessing the cardiovascular risk level of their patients.
-
-2. Make it simple for GPs to determine the risk of their patients.
-
-3. Make it simple for GPs to determine the chronic condition targets for their patients.
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYWBHgl3Ux1VK8sIU3OjIjH-_lye532FhhHlkxVDfVyQoFJILWZYZfGNmztrUVKHxOTIWFm2Hqi4X-/embed?start=false&amp;loop=false&amp;delayms=60000"></iframe>
