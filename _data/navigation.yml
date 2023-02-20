@@ -2,6 +2,8 @@ logo: /images/HSG logo2.jpg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Clinical Calculator Testing
+    collection: clinical-calculators-testing
   - title: Administrative Care Protocols
     url: /health-plan
     sublinks:
@@ -15,5 +17,3 @@ links:
     collection: preventative-health-protocols
   - title: Useful resources
     url: /uresources
-  - title: Calculator Testing
-    collection: clinical-calculators-testing
