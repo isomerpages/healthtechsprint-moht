@@ -1,4 +1,4 @@
 collections:
-  clinical-calculators-uat:
+  clinical-calculators-testing:
     output: true
     order: []
