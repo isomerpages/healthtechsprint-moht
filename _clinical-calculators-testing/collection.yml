@@ -1,4 +1,5 @@
 collections:
   clinical-calculators-testing:
     output: true
-    order: []
+    order:
+      - Background.md
