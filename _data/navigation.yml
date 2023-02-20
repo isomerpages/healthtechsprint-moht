@@ -4,13 +4,6 @@ links:
     url: /contact-us/
   - title: Clinical Calculator Testing
     collection: clinical-calculators-testing
-  - title: Administrative Care Protocols
-    url: /health-plan
-    sublinks:
-      - title: GPFirst
-        url: /permalink
-      - title: Health Plan
-        url: /permalink
   - title: Chronic Care Protocols
     collection: chronic-care-protocol
   - title: Preventative Health Protocols
