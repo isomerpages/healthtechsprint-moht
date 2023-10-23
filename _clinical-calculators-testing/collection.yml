@@ -2,4 +2,4 @@ collections:
   clinical-calculators-testing:
     output: true
     order:
-      - Background.md
+      - Instructions.md
