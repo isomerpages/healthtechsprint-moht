@@ -2,4 +2,5 @@ collections:
   clinical-calculators-testing:
     output: true
     order:
+      - Scenario 1.md
       - Instructions.md
