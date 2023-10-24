@@ -8,9 +8,8 @@ notification: "Note: This site is for a showcase purposes only. Please read T&Cs
   if in doubt. :)"
 sections:
   - hero:
-      title: Healthier SG Care Protocols (Showcase)
-      subtitle: "Note: This site is for a showcase purposes only and not
-        representative of the eventual site."
+      title: HSG Care Protocols Support Tools
+      subtitle: This site is for intended audiences only.
       background: /images/a-Healthier-Singapore-scaled.jpg
       dropdown:
         title: Popular Resources
