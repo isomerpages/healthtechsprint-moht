@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Healthier SG Care Protocols Trial
-description: Healthier SG Care Protocols Trial site
+title: Healthier SG Care Protocols Demo site
+description: Healthier SG Care Protocols Demo site
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Note: This site is for a showcase purposes only. Please read T&Cs
