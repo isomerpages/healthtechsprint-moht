@@ -2,13 +2,13 @@ title: Healthier SG Care Protocols Demo site
 url: https://www.healthiersg.gov.sg
 favicon: /images/medica_health_healthcare_sign_icon_143444.ico
 colors:
-  primary-color: "#057548"
-  secondary-color: "#417505"
+  primary-color: "#4a90e2"
+  secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#62a41b"
+      color: "#4a90e2"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
