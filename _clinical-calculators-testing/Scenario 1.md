@@ -4,11 +4,13 @@ permalink: /clinical-calculators-testing/sc1/
 description: ""
 ---
 ### Scenario Overview 
-To test the calculator is able to
+To test the calculator is able to...
 
 <hr>
 
+
 ### Inputs to calculator
+
 | No. | Question | Parameter |
 | -------- | -------- | -------- |
 | 1    | Gender     |      |
@@ -27,6 +29,7 @@ To test the calculator is able to
 | 14 | Patient have HTN?     |     |
 | 15  | Patient’s SYSTOLIC BP range - mmHg    |     |
 | 16   | Patient’s BP under treatment?   |     |
+
 <hr>
 
 ### Expected Results
