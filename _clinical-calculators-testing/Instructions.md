@@ -57,7 +57,7 @@ variant: tiptap
                 <p>5</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Patient with significant medical conditions - ACS &amp; FH</p>
+                <p>Patient with significant medical conditions - ACS &amp; CKD</p>
             </td>
         </tr>
         <tr>
