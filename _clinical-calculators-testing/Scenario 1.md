@@ -169,29 +169,53 @@ variant: tiptap
 <hr>
 <h3>Expected Results</h3>
 <p></p>
-<p>------------------------------------------------------------</p>
-<p><strong>Estimated 10-Year Coronary Artery Disease Risk:</strong>
-</p>
-<p>Borderline risk (5 to 9%)</p>
-<p>------------------------------------------------------------</p>
-<p><strong>Target LDL cholesterol:</strong>
-</p>
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
-<p>------------------------------------------------------------</p>
-<p>Refer to the <a href="https://www.primarycarepages.sg/healthier-sg/care-protocols/chronic-care-protocols/lipid-disorders" class="inline-external-link" rel="noopener noreferrer" target="_blank">Lipid Care Protocol</a> for
-    more details</p>
-<p></p>
-<p>------------------------------------------------------------</p>
-<p><strong>Target Blood Pressure:</strong>
-</p>
-<p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
-<p>------------------------------------------------------------</p>
-<p>Refer to the <a href="https://www.primarycarepages.sg/healthier-sg/care-protocols/chronic-care-protocols/hypertension" class="inline-external-link" rel="noopener noreferrer" target="_blank">Hypertension Care Protocol</a> for
-    more details</p>
-<p></p>
-<p><strong>Target HbA1c</strong>
-</p>
-<p>No target HbA1c recommendation, as patient does not have diabetes mellitus.</p>
-<p></p>
+<table>
+    <tbody>
+        <tr>
+            <th rowspan="1" colspan="1">
+                <p>Segment</p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p>Key Results</p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Estimated 10-Year Coronary Artery Disease Risk:</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Borderline risk (5 to 9%)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Target LDL cholesterol:</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Target Blood Pressure:</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>&lt;140/90 mmHg</p>
+                <p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p><strong>Target HbA1c:</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>No target HbA1c recommendation, as patient does not have diabetes mellitus.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <p></p>
