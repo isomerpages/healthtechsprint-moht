@@ -219,3 +219,8 @@ variant: tiptap
     </tbody>
 </table>
 <p></p>
+<h3>Try it out!</h3>
+<div class="iframe-wrapper">
+    <iframe style="width:100%;height:500px" allowfullscreen="true" frameborder="0" src="https://www.checkfirst.gov.sg/c/2ee93260-2edb-4f62-94c5-4aa1b8fdba68"></iframe>
+</div>
+<p></p>
