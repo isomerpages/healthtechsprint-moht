@@ -49,12 +49,20 @@ variant: tiptap
                 <p>4</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Patient with significant medical conditions - ACS &amp; FH</p>
+                <p>Patient with no significant medical conditions - High CVD Risk</p>
             </td>
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
                 <p>5</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient with significant medical conditions - ACS &amp; FH</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>6</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Patient with significant medical conditions - FH &amp; DM</p>
