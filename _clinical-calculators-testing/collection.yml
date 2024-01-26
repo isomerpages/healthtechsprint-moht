@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Instructions.md
-      - Scenario 1.md
+      - Scenario 2.md
