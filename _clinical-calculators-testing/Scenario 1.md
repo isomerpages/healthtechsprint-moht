@@ -2,34 +2,170 @@
 title: Scenario 1
 permalink: /clinical-calculators-testing/sc1/
 description: ""
+variant: tiptap
 ---
-### Scenario Overview 
-To test the calculator is able to...
-
+<h3>Scenario Overview</h3>
+<p>To test the calculator is able to...</p>
 <hr>
-
-
-### Inputs to calculator
-
-| No. | Question | Parameter |
-| -------- | -------- | -------- |
-| 1    | Gender     |      |
-| 2   | AGE (years)     |     |
-| 3    | ETHNICITY     |      |
-| 4   | SMOKER     |     |
-| 5   | Patient have CAD, CVD, AA or PAD?    |      |
-| 6   | Patient have FH?   |    |
-| 7   | Investigated sub-clinical atherosclerosis?     |     |
-| 8   | Patient have DM?     |     |
-| 9   | eGFR &lt; 60ml/min/1.73 m², OR (ii) urine ACR ≥ 3 mg/mmol (30mg/g), OR (iii) urine PCR &gt; 15 mg/mmol (150mg/g)?     |      |
-| 10   | Any other DM complications?     |     |
-| 11  | Patient’s TC range - mmol/L (mg/dl)    |      |
-| 12  | Patient’s HDL range - mmol/L (mg/dl)     |     |
-| 13  | Patient's LDL cholesterol level &gt;4.9mmol/L (&gt;190mg/dL)?     |     |
-| 14 | Patient have HTN?     |     |
-| 15  | Patient’s SYSTOLIC BP range - mmHg    |     |
-| 16   | Patient’s BP under treatment?   |     |
-
+<h3>Inputs to calculator</h3>
+<table>
+    <tbody>
+        <tr>
+            <th rowspan="1" colspan="1">
+                <p>No.</p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p>Question</p>
+            </th>
+            <th rowspan="1" colspan="1">
+                <p>Parameter</p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>1</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Gender</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>2</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>AGE (years)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>3</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>ETHNICITY</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>4</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>SMOKER?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>5</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient’s HDL range - mmol/L (mg/dl)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>6</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient’s TC range - mmol/L (mg/dl)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>7</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient’s SYSTOLIC BP range - mmHg</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>8</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient on ANTIHYPERTENSIVES?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>9</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient history of ACS?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>10</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient history of ASCVD?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>11</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient have FH?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>12</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient have CKD?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>13</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Patient have DM?</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <hr>
-
-### Expected Results
+<h3>Expected Results</h3>
+<p></p>
