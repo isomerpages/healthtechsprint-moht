@@ -15,6 +15,9 @@ sections:
         - title: "Lipid management: focus on cardiovascular risk"
           description: Updated Lipids ACG (Dec 2023)
           url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/lipid-management-focus-on-cardiovascular-risk
+        - title: Hypertension – tailoring mgmt plan to optimise BP control
+          description: Updated HTN ACG (Dec 2023)
+          url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/hypertension-tailoring-the-management-plan-to-optimise-blood-pressure-control
       button: Revised CVD Calculator Testing
       url: /google
   - infopic:
