@@ -7,7 +7,9 @@ variant: tiptap
 <h2>Overview</h2>
 <p>This series of scenarios are developed to test the revised CVD calculator,
 based on the revised 2023 Lipids and Hypertension ACGs.</p>
-<p>The table below details the ready-made scenarios for you to test the calculator.</p>
+<p>The table below details the scenarios for you to jumpstart the testing
+of the calculator, we also encourage members to test the calculator using
+your own scenarios.</p>
 <p>We appreciate if you can let us know of any comments or feedback you have,
 through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>.</p>
 <h2>Scenarios</h2>
