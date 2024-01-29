@@ -40,7 +40,7 @@ description: ""
 <p>AGE (years)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65-69</p>
+<p>20-34</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ description: ""
 <p>SMOKER?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ description: ""
 <p>Patient’s HDL range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.0-1.2 (40-49)</p>
+<p>≥ 1.6 (60)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ description: ""
 <p>Patient’s TC range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>≥ 7.3 (280)</p>
+<p>&lt; 4.1 (160)</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ description: ""
 <p>Patient’s SYSTOLIC BP range - mmHg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>130-139</p>
+<p>120-129</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ description: ""
 <p>Patient on ANTIHYPERTENSIVES?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ description: ""
 <p>Patient have FH?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes &amp; with no additional CV risk factors</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ description: ""
 <p>Patient have DM?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes, but without the specific risk factors mentioned above</p>
 </td>
 </tr>
 </tbody>
@@ -185,7 +185,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Borderline risk (5 to 9%)</p>
+<p>Very High/ High risk (Primary Prevention)</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+<p>Consider LDL-C &lt;1.8 mmol/L (&lt;70mg/dL)</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +203,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+<p>&lt;130/80 mmHg</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +212,18 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No target HbA1c recommendation, as patient does not have diabetes mellitus.</p>
+<p>For most patients, a target HbA1c of ≤7.0% provides a reasonable balance
+between a reduction in risk of microvascular complications and risk of
+hypoglycaemia.</p>
+<p></p>
+<p>Examples of when a more stringent HbA1c target (e.g., ≤6.5%) may be appropriate:
+Younger patients, patients with short duration of disease, long life expectancy
+or early-stage microvascular complications (particularly retinopathy and
+nephropathy).</p>
+<p></p>
+<p>Examples of when a less stringent HbA1c target (e.g., ≤8.0%) may be appropriate:
+Older patients, especially if frail, patients with long duration of disease,
+short life expectancy, advanced microvascular or macrovascular complications.</p>
 </td>
 </tr>
 </tbody>
