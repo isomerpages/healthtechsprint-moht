@@ -13,10 +13,10 @@ sections:
       background: /images/a-Healthier-Singapore-scaled.jpg
       key_highlights:
         - title: "Lipid management: focus on cardiovascular risk"
-          description: Updated Lipids ACG (Dec 2023)
+          description: Lipids ACG (Dec 2023)
           url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/lipid-management-focus-on-cardiovascular-risk
         - title: Hypertension – tailoring mgmt plan to optimise BP control
-          description: Updated HTN ACG (Dec 2023)
+          description: HTN ACG (Dec 2023)
           url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/hypertension-tailoring-the-management-plan-to-optimise-blood-pressure-control
         - title: Type 2 DM — personalising mgmt with non-insulin medications
           description: ACG as of May 2023
