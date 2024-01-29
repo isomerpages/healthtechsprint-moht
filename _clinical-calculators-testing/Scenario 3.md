@@ -12,7 +12,7 @@ the parameters provided using the <a href="https://www.ace-hta.gov.sg/docs/defau
 </p>
 <p></p>
 <p>Our calculator is embedded at the end of the page to facilitate your testing.</p>
-<p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>!</p>
+<p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>.</p>
 <hr>
 <h3>Inputs to calculator</h3>
 <table>
