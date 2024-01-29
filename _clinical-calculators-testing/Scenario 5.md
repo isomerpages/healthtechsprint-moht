@@ -9,7 +9,8 @@ description: ""
 the appropriate risk stratification based on the patient's medical condition(s).</p>
 <p>Based on the scenario, the patient should be stratified as a patient with <strong>very high cardiovascular risk, as patient has history of ACS.</strong>
 </p>
-<p>Our calculator is embedded at the end of the page to facilitate your testing.</p>
+<p>Our calculator is embedded towards the end of the page to facilitate your
+testing.</p>
 <p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>.</p>
 <hr>
 <h3>Inputs to calculator</h3>
