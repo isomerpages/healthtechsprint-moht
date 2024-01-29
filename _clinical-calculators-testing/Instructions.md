@@ -61,7 +61,7 @@ through the our feedback form.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient with significant medical conditions - <a href="/clinical-calculators-testing/sc5/" rel="noopener noreferrer nofollow" target="_blank">ACS &amp; CKD</a>
+<p>Patient with significant medical conditions - <a href="/clinical-calculators-testing/sc5/" rel="noopener noreferrer nofollow" target="_blank">ACS, HTN &amp; CKD</a>
 </p>
 </td>
 </tr>
