@@ -18,6 +18,9 @@ sections:
         - title: Hypertension – tailoring mgmt plan to optimise BP control
           description: Updated HTN ACG (Dec 2023)
           url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/hypertension-tailoring-the-management-plan-to-optimise-blood-pressure-control
+        - title: Type 2 DM — personalising mgmt with non-insulin medications
+          description: ACG as of May 2023
+          url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/t2dm-personalising-medications
       button: Revised CVD Calculator Testing
       url: /google
   - infopic:
