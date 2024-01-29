@@ -10,7 +10,6 @@ based on the revised 2023 Lipids and Hypertension ACGs.</p>
 <p>The table below details the ready-made scenarios for you to test the calculator.</p>
 <p>We appreciate if you can let us know of any comments or feedback you have,
 through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>.</p>
-<p></p>
 <h2>Scenarios</h2>
 <table>
 <tbody>
