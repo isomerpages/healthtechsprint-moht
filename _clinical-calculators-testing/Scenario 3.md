@@ -29,7 +29,7 @@ description: ""
 <p>Gender</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Female</p>
+<p>Male</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ description: ""
 <p>AGE (years)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65-69</p>
+<p>55-59</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ description: ""
 <p>ETHNICITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Malay</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ description: ""
 <p>Patient’s HDL range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.0-1.2 (40-49)</p>
+<p>1.3-1.5 (50-59)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ description: ""
 <p>Patient’s TC range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>≥ 7.3 (280)</p>
+<p>4.1-5.1 (160-199)</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ description: ""
 <p>Patient’s SYSTOLIC BP range - mmHg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>130-139</p>
+<p>≥ 160</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Borderline risk (5 to 9%)</p>
+<p>Intermediate risk (10 - 20%)</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+<p>Consider LDL-C &lt;2.6 mmol/L (&lt;100mg/dL)</p>
 </td>
 </tr>
 <tr>
