@@ -27,7 +27,7 @@ through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener no
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc1/" rel="noopener noreferrer nofollow" target="_blank">Low CVD Risk</a>
+<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc1/" rel="noopener noreferrer nofollow" target="_blank">Low CV Risk</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener no
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc2/" rel="noopener noreferrer nofollow" target="_blank">Borderline CVD Risk</a>
+<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc2/" rel="noopener noreferrer nofollow" target="_blank">Borderline CV Risk</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener no
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc3/" rel="noopener noreferrer nofollow" target="_blank">Intermediate CVD Risk</a>
+<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc3/" rel="noopener noreferrer nofollow" target="_blank">Intermediate CV Risk</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener no
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc4/" rel="noopener noreferrer nofollow" target="_blank">High CVD Risk</a>
+<p>Patient with no significant medical conditions - <a href="/clinical-calculators-testing/sc4/" rel="noopener noreferrer nofollow" target="_blank">High CV Risk</a>
 </p>
 </td>
 </tr>
