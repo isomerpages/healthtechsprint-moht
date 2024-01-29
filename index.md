@@ -22,7 +22,7 @@ sections:
           description: ACG as of May 2023
           url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)/details/t2dm-personalising-medications
       button: Revised CVD Calculator Testing
-      url: /google
+      url: /clinical-calculators-testing/calbg/
   - infopic:
       title: About the Care Protocol Team
       subtitle: The Future of Primary Care
