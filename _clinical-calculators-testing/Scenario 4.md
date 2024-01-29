@@ -40,7 +40,7 @@ description: ""
 <p>AGE (years)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65-69</p>
+<p>75-79</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ description: ""
 <p>ETHNICITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Others</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ description: ""
 <p>Patient’s HDL range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.0-1.2 (40-49)</p>
+<p>&lt; 1.0 (40)</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ description: ""
 <p>Patient’s SYSTOLIC BP range - mmHg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>130-139</p>
+<p>≥ 160</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Borderline risk (5 to 9%)</p>
+<p>High risk (&gt;20%)</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,12 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+<p>Consider LDL-C &lt; 1.8 mmol/L (&lt; 70mg/dL)</p>
+<p></p>
+<p>While older age (&gt;75 years) is not a contraindication for statin use,
+factors to be considered include potential benefits, risk of side effects
+(noting that renal or hepatic impairment and potential for drug interactions
+may be more likely), patient preference, and functional status.</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +208,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+<p>&lt;130/80 mmHg</p>
 </td>
 </tr>
 <tr>
