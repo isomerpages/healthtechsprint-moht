@@ -4,9 +4,5 @@ links:
     url: /contact-us/
   - title: Clinical Calculator Testing
     collection: clinical-calculators-testing
-  - title: Chronic Care Protocols
-    collection: chronic-care-protocol
-  - title: Preventative Health Protocols
-    collection: preventative-health-protocols
-  - title: Useful resources
-    url: /uresources
+  - title: ACE Clinical Guidances (ACGs)
+    url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)#cat~ACE%20Clinical%20Guidances&type~Published&page~1
