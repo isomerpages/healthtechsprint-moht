@@ -4,12 +4,14 @@ permalink: /clinical-calculators-testing/calbg/
 description: ""
 variant: tiptap
 ---
+<h2>Overview</h2>
 <p>This series of scenarios are developed to test the revised CVD calculator,
 based on the revised 2023 Lipids and Hypertension ACGs.</p>
 <p>The table below details the ready-made scenarios for you to test the calculator.</p>
 <p>We appreciate if you can let us know of any comments or feedback you have,
 through the our feedback form.</p>
 <p></p>
+<h2>Scenarios</h2>
 <table>
 <tbody>
 <tr>
