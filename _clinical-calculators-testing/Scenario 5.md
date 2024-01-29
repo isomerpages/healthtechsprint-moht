@@ -29,7 +29,7 @@ description: ""
 <p>Gender</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Female</p>
+<p>Male</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ description: ""
 <p>AGE (years)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65-69</p>
+<p>40-44</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ description: ""
 <p>SMOKER?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes</p>
+<p>No</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ description: ""
 <p>Patient’s HDL range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.0-1.2 (40-49)</p>
+<p>1.3-1.5 (50-59)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ description: ""
 <p>Patient’s TC range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>≥ 7.3 (280)</p>
+<p>4.1-5.1 (160-199)</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ description: ""
 <p>Patient’s SYSTOLIC BP range - mmHg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>130-139</p>
+<p>140-159</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ description: ""
 <p>Patient history of ACS?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ description: ""
 <p>Patient have CKD?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Borderline risk (5 to 9%)</p>
+<p>Very High risk (Secondary Prevention)</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+<p>Aim for LDL-C &lt;1.4mmol/L (&lt;55mg/dL).</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +203,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+<p>&lt;130/80 mmHg</p>
 </td>
 </tr>
 <tr>
