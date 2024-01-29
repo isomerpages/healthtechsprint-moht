@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: About the Care Protocol Team
       subtitle: The Future of Primary Care
-      description: Meet the team behind the protocols!
+      description: Find out more about the Care Protocols!
       button: Find out more!
-      image: /images/FPC.jpeg
+      image: /images/CP_Wrkgrp_Dinner.jpeg
       alt: FPC Team
       url: https://www.aic.sg/about-us/Pages/Initiatives/Healthier-SG.aspx
 ---
