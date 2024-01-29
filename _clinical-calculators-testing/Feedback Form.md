@@ -4,7 +4,7 @@ permalink: /clinical-calculators-testing/fbform/
 variant: tiptap
 description: ""
 ---
-<h3>Please provide your feedback on the calculator below!</h3>
+<h3>Please provide your feedback below!</h3>
 <p></p>
 <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/65b7149b80a538729382d369" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
