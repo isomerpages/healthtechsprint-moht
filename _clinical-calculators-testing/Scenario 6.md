@@ -5,7 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h3>Scenario Overview</h3>
-<p>To test the calculator is able to...</p>
+<p>This scenario is designed to test the calculator's capability to provide
+the appropriate risk stratification based on the patient's medical condition(s).</p>
+<p>Based on the scenario, the patient should be stratified as a patient with <strong>very high cardiovascular risk, as patient has familial hypercholesterolaemia (FH) and diabetes mellitus (DM).</strong>
+</p>
+<p>This scenario showcases the calculator's capability to perform sanity
+checks based on the information provided and classified patient as very
+high risk despite the initial input as FH without additional cardiovascular
+risk factors but yet indicating that the patient has DM (which is a cardiovascular
+risk factor).</p>
+<p>Our calculator is embedded at the end of the page to facilitate your testing.</p>
+<p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>!</p>
 <hr>
 <h3>Inputs to calculator</h3>
 <table>
