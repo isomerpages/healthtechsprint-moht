@@ -1,10 +1,8 @@
 logo: /images/Screenshot_2024_01_26_at_10_51_50_AM.png
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Revised CVD Calculator
+    url: https://for.sg/aegle-review
   - title: Clinical Calculator Testing
     collection: clinical-calculators-testing
   - title: ACE Clinical Guidances (ACGs)
     url: https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)#cat~ACE%20Clinical%20Guidances&type~Published&page~1
-  - title: Revised CVD Calculator
-    url: https://for.sg/aegle-review
