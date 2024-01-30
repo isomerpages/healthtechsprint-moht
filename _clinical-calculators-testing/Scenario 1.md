@@ -202,8 +202,12 @@ testing.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider LDL-C &lt;4.1 mmol/L (&lt;158mg/dL); consider ideally LDL-C &lt;3.4
-mmol/L (&lt;130 mg/dL)</p>
+<p>Consider ideal LDL-C &lt;3.4 mmol/L (&lt;130 mg/dL).</p>
+<p></p>
+<p>Focus on lifestyle intervention.</p>
+<p></p>
+<p>Consider risk-benefit discussion for a statin if LDL-C persistently &gt;4.1
+mmol/L (&gt;160 mg/dL)</p>
 </td>
 </tr>
 <tr>
