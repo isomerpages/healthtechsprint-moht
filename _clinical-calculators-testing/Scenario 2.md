@@ -193,7 +193,7 @@ testing.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Borderline risk (5 to 9%)</p>
+<p>Borderline risk (5 to &lt;10%)</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +202,7 @@ testing.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Consider &lt; 3.4 mmol/L (130 mg/dL)</p>
+<p>Consider LDL-C &lt; 3.4 mmol/L (130 mg/dL)</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,8 @@ testing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated, especially if
+the patient has hypertension-mediated organ damage (HMOD).</p>
 </td>
 </tr>
 <tr>
