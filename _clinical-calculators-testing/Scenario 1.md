@@ -213,7 +213,8 @@ mmol/L (&lt;130 mg/dL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&lt;140/90 mmHg</p>
-<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated</p>
+<p>Consider going lower (e.g. &lt;130/80 mmHg) as tolerated, especially if
+the patient has hypertension-mediated organ damage (HMOD)</p>
 </td>
 </tr>
 <tr>
