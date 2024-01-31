@@ -14,6 +14,9 @@ the parameters provided using the <a href="https://www.ace-hta.gov.sg/docs/defau
 <p>Our calculator is embedded towards the end of the page to facilitate your
 testing.</p>
 <p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>.</p>
+<p>Click <a href="https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)#cat~ACE%20Clinical%20Guidances&amp;type~Published&amp;page~1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
+</p>
 <hr>
 <h3>Inputs to calculator</h3>
 <table>
