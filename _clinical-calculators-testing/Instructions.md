@@ -98,4 +98,5 @@ your testing.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p><a href="https://www.freepik.com/free-photo/closeup-calculator-stethoscope-healthcare-expenses-concept_3011771.htm#query=medical%20calculator&amp;position=22&amp;from_view=search&amp;track=ais&amp;uuid=7493bbd2-800d-4a6c-88e0-2681c814aeb4&quot;>Image" rel="noopener noreferrer nofollow" target="_blank">Image</a> by
+<a href="http://rawpixel.com" rel="noopener noreferrer nofollow" target="_blank">rawpixel.com</a>on Freepik</p>
