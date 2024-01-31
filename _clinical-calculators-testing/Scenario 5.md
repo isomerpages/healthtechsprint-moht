@@ -177,7 +177,8 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 </table>
 <hr>
 <h3>Expected Results</h3>
-<p></p>
+<p>Based on the scenario, the patient should be stratified as a patient with <strong>very high cardiovascular risk, as patient has history of ACS.</strong>
+</p>
 <table>
 <tbody>
 <tr>
