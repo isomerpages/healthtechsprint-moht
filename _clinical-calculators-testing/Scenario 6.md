@@ -181,7 +181,13 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 </table>
 <hr>
 <h3>Expected Results</h3>
-<p></p>
+<p>Based on the scenario, the patient should be stratified as a patient with <strong>very high cardiovascular risk, as patient has familial hypercholesterolaemia (FH) and diabetes mellitus (DM).</strong>
+</p>
+<p>This scenario showcases the calculator's capability to perform sanity
+checks based on the information provided and classified patient as very
+high risk despite the initial input as<em> FH without additional cardiovascular risk factors</em>,
+but yet indicating that <em>the patient has DM (which is a cardiovascular risk factor)</em>.</p>
+<p>The expected results are as follows:</p>
 <table>
 <tbody>
 <tr>
