@@ -181,7 +181,13 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 </table>
 <hr>
 <h3>Expected Results</h3>
-<p></p>
+<p>Based on the scenario, the patient should be stratified as a patient with <strong>very high cardiovascular risk, as patient has chronic kidney disease (CKD) and diabetes mellitus (DM).</strong>
+</p>
+<p>This scenario showcases the calculator's capability to perform sanity
+checks based on the information provided. The calculator will classified
+patient as <u>very high risk</u> despite indicating that <em>patient has DM without risk factors</em>,
+but yet indicating that <em>the patient has CKD (which is a risk factor)</em>.</p>
+<p>The expected results are as follows:</p>
 <table>
 <tbody>
 <tr>
