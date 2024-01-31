@@ -187,7 +187,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 checks based on the information provided and classified patient as very
 high risk despite the initial input as<em> FH without additional cardiovascular risk factors</em>,
 but yet indicating that <em>the patient has DM (which is a cardiovascular risk factor)</em>.</p>
-<p>The expected results are as follows:</p>
+<p>The following results will be provided by the calculator.</p>
 <table>
 <tbody>
 <tr>
