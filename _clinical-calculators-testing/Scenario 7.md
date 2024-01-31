@@ -42,7 +42,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Gender</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Female</p>
+<p>Male</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>AGE (years)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20-34</p>
+<p>65-69</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>ETHNICITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Others</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Patient’s HDL range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>≥ 1.6 (60)</p>
+<p>1.0-1.2 (40-49)</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Patient’s TC range - mmol/L (mg/dl)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt; 4.1 (160)</p>
+<p>6.2-7.2 (240-279)</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Patient’s SYSTOLIC BP range - mmHg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>120-129</p>
+<p>140-159</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Patient have FH?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yes &amp; with no additional CV risk factors</p>
+<p>No</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 <p>Patient have CKD?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 </tr>
 <tr>
