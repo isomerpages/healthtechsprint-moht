@@ -78,6 +78,15 @@ your testing.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Patient with significant medical conditions - <a href="/clinical-calculators-testing/sc7/" rel="noopener noreferrer nofollow" target="_blank">CKD &amp; DM</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
