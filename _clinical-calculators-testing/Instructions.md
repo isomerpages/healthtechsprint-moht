@@ -20,7 +20,7 @@ through the our <a href="/clinical-calculators-testing/fbform/" rel="noopener no
 access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 </p>
 <h2>Overview of Scenarios</h2>
-<p>Note: The calculator is embedded at the end of each scenario to facilitate
+<p>Note: The calculator is embedded towards the end of each scenario to facilitate
 your testing.</p>
 <table>
 <tbody>
