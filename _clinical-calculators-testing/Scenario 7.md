@@ -187,7 +187,7 @@ access the relevant <strong>ACE Clinical Guidances (ACGs).</strong>
 checks based on the information provided. The calculator will classified
 patient as <u>very high risk</u> despite indicating that <em>patient has DM without risk factors</em>,
 but yet indicating that <em>the patient has CKD (which is a risk factor)</em>.</p>
-<p>The expected results are as follows:</p>
+<p>The following results will be provided by the calculator.</p>
 <table>
 <tbody>
 <tr>
