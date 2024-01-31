@@ -7,7 +7,7 @@ image: /images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_
 ---
 <h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_32066.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_32066.jpg">
 </div>
 <h2>Background</h2>
 <p>This series of scenarios are developed to test the revised CVD calculator,
