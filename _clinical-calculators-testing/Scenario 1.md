@@ -176,7 +176,9 @@ testing.</p>
 </table>
 <hr>
 <h3>Expected Results</h3>
-<p></p>
+<p>Based on the scenario, the patient will arrive at a risk score of 2%,
+based on the <a href="https://www.ace-hta.gov.sg/docs/default-source/acgs/additional-resource-for-cv-risk-assessment-using-sg-frs-2023.pdf?sfvrsn=965de984_8" rel="noopener noreferrer nofollow" target="_blank">updated Singapore-modified Framingham Risk Score.</a> 
+</p>
 <table>
 <tbody>
 <tr>
