@@ -11,9 +11,8 @@ the appropriate risk stratification based on the patient's medical condition(s).
 </p>
 <p>This scenario showcases the calculator's capability to perform sanity
 checks based on the information provided and classified patient as very
-high risk despite the initial input as FH without additional cardiovascular
-risk factors, but yet indicating that the patient has DM (which is a cardiovascular
-risk factor).</p>
+high risk despite the initial input as<em> FH without additional cardiovascular risk factors</em>,
+but yet indicating that <em>the patient has DM (which is a cardiovascular risk factor)</em>.</p>
 <p>Our calculator is embedded towards the end of the page to facilitate your
 testing.</p>
 <p>Please help us improve by providing your <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback</a>.</p>
