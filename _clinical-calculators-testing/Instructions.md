@@ -10,10 +10,10 @@ image: /images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_32066.jpg">
 </div>
 <h2>Background</h2>
-<p>This series of scenarios are developed to test the revised CVD calculator,
+<p>This series of scenarios were developed to test the revised CVD calculator,
 based on the revised 2023 Lipids and Hypertension ACGs.</p>
 <p>The table below details the scenarios for you to jumpstart the testing,
-we also encourage members to test the calculator using your own scenarios.</p>
+we also encourage you to test the calculator using your own scenarios.</p>
 <p>We appreciate if you can let us know of any comments or feedback you have,
 through our <a href="/clinical-calculators-testing/fbform/" rel="noopener noreferrer nofollow" target="_blank">feedback form</a>.</p>
 <p>Click <a href="https://www.ace-hta.gov.sg/healthcare-professionals/ace-clinical-guidances-(acgs)#cat~ACE%20Clinical%20Guidances&amp;type~Published&amp;page~1" rel="noopener noreferrer nofollow" target="_blank">here</a> to
