@@ -1,4 +1,4 @@
-title: Healthier SG Care Protocols Demo site
+title: "HSG Care Protocols Calculator "
 url: https://www.healthiersg.gov.sg
 favicon: /images/medica_health_healthcare_sign_icon_143444.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#4a90e2"
     - title: media-color-five
       color: "#4a90e2"
-description: Healthier SG Care Protocols Demo site
+description: "HSG Care Protocols Calculator "
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +53,7 @@ staging: https://moht-isomersandbox-staging.netlify.app/
 prod: https://moht-isomersandbox-prod.netlify.app/
 google_analytics: UA-149609309-2
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 linkedin-insights: ""
 resources_name: healthier-sg
