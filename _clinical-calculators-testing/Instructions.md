@@ -10,8 +10,8 @@ image: /images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/closeup_calculator_stethoscope_healthcare_expenses_concept_53876_32066.jpg">
 </div>
 <h2>Background</h2>
-<p>This series of scenarios were developed to test the revised CVD calculator,
-based on the revised 2023 Lipids and Hypertension ACGs.</p>
+<p>This series of scenarios were developed to test the revised <strong>Healthier SG</strong>  <strong>Cardiovascular Disease Risk Calculator</strong>,
+based on the 2023 Lipids and Hypertension ACGs.</p>
 <p>The table below details the scenarios for you to jumpstart the testing,
 we also encourage you to test the calculator using your own scenarios.</p>
 <p>We appreciate if you can let us know of any comments or feedback you have,
