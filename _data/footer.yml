@@ -1,11 +1,5 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: https://form.gov.sg/6306e6e2284992001310d761
+feedback: https://form.gov.sg/65b7149b80a538729382d369
 faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/sghealthministry
-  linkedin: https://www.linkedin.com/company/YourAgency
-  twitter: https://twitter.com/sporemoh
-  youtube: https://www.youtube.com/user/MOHSingapore
-  instagram: https://www.instagram.com/your.insta/
-  tiktok: https://www.tiktok.com/@ongyekung
+social_media: {}
