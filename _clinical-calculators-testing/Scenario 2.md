@@ -235,7 +235,7 @@ the patient has hypertension-mediated organ damage (HMOD).</p>
 <p></p>
 <hr>
 <h3>Try it out!</h3>
-<p></p>
+<p>Please feel free to try out the above scenario in the calculator below.</p>
 <p>If you prefer to open up the calculator in a new window instead, please
 click the following link: <strong><a href="https://for.sg/aegle-review" rel="noopener noreferrer nofollow" target="_blank">https://for.sg/aegle-review</a></strong>
 </p>
